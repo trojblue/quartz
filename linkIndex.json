@@ -11,6 +11,30 @@
           "source": "/",
           "target": "/%E5%BB%BA%E6%A8%A1%E6%B0%B4%E5%B9%B3%E7%BA%BF",
           "text": "水平线"
+        },
+        {
+          "source": "/",
+          "target": "/english%5CengNote",
+          "text": "engNote"
+        },
+        {
+          "source": "/",
+          "target": "/english%5CEngNote1",
+          "text": "EngNote1"
+        }
+      ],
+      "/english/EngNote1": [
+        {
+          "source": "/english/EngNote1",
+          "target": "/engNote",
+          "text": "engNote"
+        }
+      ],
+      "/english/engNote": [
+        {
+          "source": "/english/engNote",
+          "target": "/EngNote1",
+          "text": "EngNote1"
         }
       ],
       "/建模/水平线": [
@@ -42,6 +66,34 @@
           "target": "/%E5%BB%BA%E6%A8%A1%E6%B0%B4%E5%B9%B3%E7%BA%BF",
           "text": "水平线"
         }
+      ],
+      "/EngNote1": [
+        {
+          "source": "/english/engNote",
+          "target": "/EngNote1",
+          "text": "EngNote1"
+        }
+      ],
+      "/engNote": [
+        {
+          "source": "/english/EngNote1",
+          "target": "/engNote",
+          "text": "engNote"
+        }
+      ],
+      "/english%5CEngNote1": [
+        {
+          "source": "/",
+          "target": "/english%5CEngNote1",
+          "text": "EngNote1"
+        }
+      ],
+      "/english%5CengNote": [
+        {
+          "source": "/",
+          "target": "/english%5CengNote",
+          "text": "engNote"
+        }
       ]
     }
   },
@@ -55,6 +107,26 @@
       "source": "/",
       "target": "/%E5%BB%BA%E6%A8%A1%E6%B0%B4%E5%B9%B3%E7%BA%BF",
       "text": "水平线"
+    },
+    {
+      "source": "/",
+      "target": "/english%5CengNote",
+      "text": "engNote"
+    },
+    {
+      "source": "/",
+      "target": "/english%5CEngNote1",
+      "text": "EngNote1"
+    },
+    {
+      "source": "/english/EngNote1",
+      "target": "/engNote",
+      "text": "engNote"
+    },
+    {
+      "source": "/english/engNote",
+      "target": "/EngNote1",
+      "text": "EngNote1"
     },
     {
       "source": "/建模/水平线",
