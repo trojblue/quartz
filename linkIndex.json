@@ -4,22 +4,22 @@
       "/": [
         {
           "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
+          "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
           "text": "创建笔记"
         },
         {
           "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1%E6%B0%B4%E5%B9%B3%E7%BA%BF",
+          "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
           "text": "水平线"
         },
         {
           "source": "/",
-          "target": "/english%5CengNote",
+          "target": "/english/engNote",
           "text": "engNote"
         },
         {
           "source": "/",
-          "target": "/english%5CEngNote1",
+          "target": "/english/EngNote1",
           "text": "EngNote1"
         }
       ],
@@ -42,6 +42,11 @@
           "source": "/建模/水平线",
           "target": "/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
           "text": "创建笔记"
+        },
+        {
+          "source": "/建模/水平线",
+          "target": "/../index",
+          "text": "_index"
         }
       ]
     },
@@ -53,18 +58,25 @@
           "text": "创建笔记"
         }
       ],
-      "/%E5%BB%BA%E6%A8%A1%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0": [
+      "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0": [
         {
           "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
+          "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
           "text": "创建笔记"
         }
       ],
-      "/%E5%BB%BA%E6%A8%A1%E6%B0%B4%E5%B9%B3%E7%BA%BF": [
+      "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF": [
         {
           "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1%E6%B0%B4%E5%B9%B3%E7%BA%BF",
+          "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
           "text": "水平线"
+        }
+      ],
+      "/../index": [
+        {
+          "source": "/建模/水平线",
+          "target": "/../index",
+          "text": "_index"
         }
       ],
       "/EngNote1": [
@@ -81,17 +93,17 @@
           "text": "engNote"
         }
       ],
-      "/english%5CEngNote1": [
+      "/english/EngNote1": [
         {
           "source": "/",
-          "target": "/english%5CEngNote1",
+          "target": "/english/EngNote1",
           "text": "EngNote1"
         }
       ],
-      "/english%5CengNote": [
+      "/english/engNote": [
         {
           "source": "/",
-          "target": "/english%5CengNote",
+          "target": "/english/engNote",
           "text": "engNote"
         }
       ]
@@ -100,22 +112,22 @@
   "links": [
     {
       "source": "/",
-      "target": "/%E5%BB%BA%E6%A8%A1%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
+      "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
       "text": "创建笔记"
     },
     {
       "source": "/",
-      "target": "/%E5%BB%BA%E6%A8%A1%E6%B0%B4%E5%B9%B3%E7%BA%BF",
+      "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
       "text": "水平线"
     },
     {
       "source": "/",
-      "target": "/english%5CengNote",
+      "target": "/english/engNote",
       "text": "engNote"
     },
     {
       "source": "/",
-      "target": "/english%5CEngNote1",
+      "target": "/english/EngNote1",
       "text": "EngNote1"
     },
     {
@@ -132,6 +144,11 @@
       "source": "/建模/水平线",
       "target": "/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
       "text": "创建笔记"
+    },
+    {
+      "source": "/建模/水平线",
+      "target": "/../index",
+      "text": "_index"
     }
   ]
 }
