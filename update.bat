@@ -16,5 +16,5 @@ git push
 
 
 echo "upload done! will auto-exit after 10 seconds"
-choice /d y /t 10 > nul
+choice /d y /t 20 > nul
 echo "exit.."
