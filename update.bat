@@ -1,5 +1,5 @@
 cd D:\CSC2\Obsidian-wiki-fix\src
-python controller.py
+python view.py
 cd D:\quartz
 
 for /F "tokens=2" %%i in ('date /t') do set mydate=%%i
