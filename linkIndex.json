@@ -24,13 +24,25 @@
         },
         {
           "source": "/",
-          "target": "/",
+          "target": "/VRChat/VRChat",
           "text": "VRChat"
         },
         {
           "source": "/",
           "target": "/",
           "text": "Blender资源"
+        }
+      ],
+      "/VRChat/VRChat": [
+        {
+          "source": "/VRChat/VRChat",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
+        },
+        {
+          "source": "/VRChat/VRChat",
+          "target": "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
         }
       ],
       "/english/EngNote1": [
@@ -82,11 +94,6 @@
         {
           "source": "/",
           "target": "/",
-          "text": "VRChat"
-        },
-        {
-          "source": "/",
-          "target": "/",
           "text": "Blender资源"
         },
         {
@@ -117,6 +124,27 @@
           "source": "/",
           "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
           "text": "水平线"
+        }
+      ],
+      "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B": [
+        {
+          "source": "/VRChat/VRChat",
+          "target": "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        }
+      ],
+      "/VRChat/VRChat": [
+        {
+          "source": "/",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        }
+      ],
+      "/VRChat/VRChat%E8%B5%84%E6%BA%90": [
+        {
+          "source": "/VRChat/VRChat",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
         }
       ],
       "/_index": [
@@ -159,6 +187,16 @@
   },
   "links": [
     {
+      "source": "/VRChat/VRChat",
+      "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+      "text": "VRChat资源"
+    },
+    {
+      "source": "/VRChat/VRChat",
+      "target": "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+      "text": "上传模型"
+    },
+    {
       "source": "/",
       "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
       "text": "创建笔记"
@@ -180,7 +218,7 @@
     },
     {
       "source": "/",
-      "target": "/",
+      "target": "/VRChat/VRChat",
       "text": "VRChat"
     },
     {
