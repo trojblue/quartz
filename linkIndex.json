@@ -24,6 +24,11 @@
         },
         {
           "source": "/",
+          "target": "/VRChat/words/avatar-id",
+          "text": "avatar-id"
+        },
+        {
+          "source": "/",
           "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
           "text": "Blender资源"
         }
@@ -62,6 +67,11 @@
       "/VRChat/hotswap": [
         {
           "source": "/VRChat/hotswap",
+          "target": "/VRChat/words/avatar-id",
+          "text": "avatar-id"
+        },
+        {
+          "source": "/VRChat/hotswap",
           "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
           "text": "上传模型"
         },
@@ -72,6 +82,16 @@
         }
       ],
       "/VRChat/words/avatar-id": [
+        {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        },
+        {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/words/avatar-pedestal",
+          "text": "avatar-pedestal"
+        },
         {
           "source": "/VRChat/words/avatar-id",
           "target": "/VRChat/hotswap",
@@ -226,9 +246,33 @@
           "text": "hotswap"
         },
         {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        },
+        {
           "source": "/",
           "target": "/VRChat/hotswap",
           "text": "hotswap"
+        }
+      ],
+      "/VRChat/words/avatar-id": [
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/words/avatar-id",
+          "text": "avatar-id"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/words/avatar-id",
+          "text": "avatar-id"
+        }
+      ],
+      "/VRChat/words/avatar-pedestal": [
+        {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/words/avatar-pedestal",
+          "text": "avatar-pedestal"
         }
       ],
       "/_index": [
@@ -287,6 +331,11 @@
     },
     {
       "source": "/VRChat/hotswap",
+      "target": "/VRChat/words/avatar-id",
+      "text": "avatar-id"
+    },
+    {
+      "source": "/VRChat/hotswap",
       "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
       "text": "上传模型"
     },
@@ -294,6 +343,16 @@
       "source": "/VRChat/hotswap",
       "target": "/VRChat/VRChat",
       "text": "VRChat"
+    },
+    {
+      "source": "/VRChat/words/avatar-id",
+      "target": "/VRChat/hotswap",
+      "text": "hotswap"
+    },
+    {
+      "source": "/VRChat/words/avatar-id",
+      "target": "/VRChat/words/avatar-pedestal",
+      "text": "avatar-pedestal"
     },
     {
       "source": "/VRChat/words/avatar-id",
@@ -324,6 +383,11 @@
       "source": "/",
       "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
       "text": "上传模型"
+    },
+    {
+      "source": "/",
+      "target": "/VRChat/words/avatar-id",
+      "text": "avatar-id"
     },
     {
       "source": "/",

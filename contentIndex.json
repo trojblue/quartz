@@ -1,98 +1,98 @@
 {
   "/": {
     "title": "主页",
-    "content": "## VRChat:\r\n\r\n[VRChat](VRChat/VRChat.md) ← 主页\r\n\r\n\r\n\r\n\r\n\r\n[VRChat资源](VRChat/VRChat资源.md)\r\n\r\n[hotswap](VRChat/hotswap.md)\r\n\r\n[上传模型](VRChat/上传模型.md)\r\n\r\n[avatar id](VRChat/words/avatar id.md)\r\n\r\n\r\n\r\n\r\n\r\n## Blender:\r\n\r\n[Blender资源](Blender/Blender资源.md)",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "content": "## VRChat:\r\n\r\n[VRChat](VRChat/VRChat.md) ← 主页\r\n\r\n\r\n\r\n\r\n\r\n[VRChat资源](VRChat/VRChat资源.md)\r\n\r\n[hotswap](VRChat/hotswap.md)\r\n\r\n[上传模型](VRChat/上传模型.md)\r\n\r\n[avatar-id](VRChat/words/avatar-id.md)\r\n\r\n\r\n\r\n\r\n\r\n## Blender:\r\n\r\n[Blender资源](Blender/Blender资源.md)",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/Blender/Blender": {
     "title": "Untitled Page",
     "content": "Blender主页\r\n",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/Blender/Blender资源": {
     "title": "Blender资源",
     "content": "一些实用的Blender/3d资源:\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n## 非VRC渠道:\r\n\r\n\r\n\r\n[Sketchfab](https://sketchfab.com/search?type=models):\r\n\r\n\r\n\r\n-   [Hangar Blocking](https://sketchfab.com/3d-models/hangar-blocking-bdb37f544b764d9e8e72708a970bae13)\r\n\r\n-   [Enviroment Sets](https://sketchfab.com/gutemnasc/collections/enviroment-sets)\r\n\r\n-   我的collection: [VRC](https://sketchfab.com/trojblue/collections/vrc)\r\n\r\n-   [Mastering room](https://3dwarehouse.sketchup.com/model/u8128f776-c2c1-461d-bfce-26c80031b1fe/Cube-1-Audio-studio-mastering-room?hl=en\u0026login=true)\r\n\r\n\r\n\r\n3D Warehouse: 工业模型, nb\r\n\r\n\r\n\r\n[3D Warehouse (sketchup.com)](https://3dwarehouse.sketchup.com/)\r\n\r\n\r\n\r\n非VRChat模型:\r\n\r\n\r\n\r\n[https://mmda.booru.org/](https://mmda.booru.org/)\r\n\r\n\r\n\r\n[https://bowlroll.net/r18/file/tag/MikuMikuDance](https://bowlroll.net/r18/file/tag/MikuMikuDance)\r\n\r\n\r\n\r\n[https://smutba.se/](https://smutba.se/)\r\n\r\n\r\n\r\n模型屋(是这名字么)\r\n\r\n\r\n\r\nMMD:\r\n\r\n\r\n\r\n-   [MMDArchive 1](https://mmda.booru.org/index.php?page=post\u0026s=view\u0026id=2592); [MMDArchive](https://mmda.booru.org/index.php?page=post\u0026s=view\u0026id=2445)\r\n\r\n\r\n\r\n3D素材:\r\n\r\n[https://polyhaven.com/](https://polyhaven.com/) 免费素材\r\n\r\n\r\n\r\n\r\n\r\n[Blender](Blender/Blender.md)",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/VRChat/Basics/上传模型": {
     "title": "上传模型",
     "content": "上传模型:\r\n\r\n\r\n\r\n1.  设置unitysdk ([Setting up the SDK (vrchat.com)](https://docs.vrchat.com/docs/setting-up-the-sdk))\r\n\r\n2. Sdk3 下载地址 [VRChat - Home](https://vrchat.com/home/download)\r\n\r\n3.  根据介绍导入各种unity包 (直接双击), 包括VRChatSDK\r\n\r\n4.  新建一个scene把模型拖到里面去\r\n\r\n5.  VRChatSDK - build - publish\r\n\r\n6.  弹出新窗口里设置好名字等以后上传\r\n\r\n7.  注意console, 有时候东西没反应, 错误提示写在console里面",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/VRChat/VRChat": {
     "title": "VRChat",
     "content": "VRChat主页\r\n\r\n\r\n\r\n[VRChat资源](VRChat/VRChat资源.md)\r\n\r\n\r\n\r\n[上传模型](VRChat/上传模型.md)",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/VRChat/VRChat资源": {
     "title": "VRChat资源",
     "content": "## 合法渠道:\r\n\r\n\r\n\r\nPrefab database: [Prefabs VRChat - Google 云端硬盘](https://docs.google.com/spreadsheets/d/e/2PACX-1vTP-eIkYLZh7pDhpO-untxy1zbuoiqdzVP2z5-vg_9ijBW7k8ZC9VP6cVL-ct5yKrySPBPJ6V2ymlWS/pubhtml#)\r\n\r\n\r\n\r\nGlobal illumination [[Free]VRChat Prefabs - Update RealtimeGI for world creation](https://booth.pm/en/items/2903091)\r\n\r\n\r\n\r\n一些shader fes上的东西 [PiMaker/VRChatUnityThings:](https://github.com/PiMaker/VRChatUnityThings#procedural-night-skybox)\r\n\r\n\r\n\r\nPublic avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.com/document/d/1aHtMbCe6FdT2rdQCJQbSY3P4JHXiU1YRWzZg83mlAk0/edit?usp=sharing)\r\n\r\n\r\n\r\n\r\n\r\n## 非合法渠道:\r\n\r\n\r\n\r\n[Nulled - VRChat booth文件包](https://www.nulled.to/topic/771040-%E3%80%90vrchat%E3%80%91cracking-3d-model-in-booth%E3%80%80misheluachwi-dolaciws-01a-mod2robe/page-1)\r\n\r\n\r\n\r\n[Kemono - Booth/Gumroad等免费下载](https://kemono.party/)\r\n\r\n\r\n\r\n[一些常见的booth文件模型包 - GDrive](https://drive.google.com/drive/folders/16RDXb7ETnkL3AZO9xfksPhjAyHk_uVcl?usp=sharing)\r\n\r\n   \r\n\r\n\r\n\r\n\r\n\r\n## Booth快搜:\r\n\r\n\r\n\r\n-   [Shader](https://booth.pm/zh-cn/search/Shader)\r\n\r\n-   [vrchat向けに - BOOTH](https://booth.pm/zh-cn/search/vrchat%E5%90%91%E3%81%91)\r\n\r\n-   [Page 2 - 3D Attachments - Booth](https://booth.pm/en/browse/3D%20Character%20Attachments?page=2)\r\n\r\n\r\n\r\n   \r\n\r\n\r\n\r\n## 教程类:\r\n\r\n\r\n\r\n[World Creation | VRCLibrary](https://vrclibrary.com/wiki/shelves/world-creation)\r\n\r\n\r\n\r\n变声器: [恋声 (xrea.com)](http://koigoemoe.g2.xrea.com/koigoe/koigoe.html)\r\n\r\n\r\n\r\n\r\n\r\n## 开发相关:\r\n\r\n[Blender资源](Blender/Blender资源.md)\r\n\r\n\r\n\r\n\r\n\r\n[VRChat](VRChat/VRChat.md)",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/VRChat/hotswap": {
     "title": "hotswap",
-    "content": "\u003e 2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.\r\n\r\n\r\n\r\nHotswap, 一般用来指软件运行中改变它行为. \r\n\r\n\r\n\r\n在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.\r\n\r\n\r\n\r\nHotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去. \r\n\r\n\r\n\r\n缺点是如果想改的话还是得解包了自己修复.\r\n\r\n\r\n\r\n## 获取模型包\r\n\r\n\r\n\r\n用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:\r\n\r\n\r\n\r\n### (一) 从缓存提取\r\n\r\n\r\n\r\n去vrchat的缓存目录, 默认是 `%AppData%\\..\\LocalLow\\VRChat\\vrchat`\r\n\r\n\r\n\r\n里面有一个叫做`Cache-WindowsPlayer` 的文件夹, 里面是你下载的其他人模型/地图的缓存, 大概长这样:\r\n\r\n![Pasted image 20220306071013.png](assets/Pasted image 20220306071013.png)\r\n\r\n\r\n\r\n每个目录代表一个模型或地图的文件, 点进去有两个子文件, 分别叫`__data`和`__info`;\r\n\r\n\r\n\r\n其中`__data` 就是想要解包的目标文件, 里面是换了格式的`.vrca` / `.vrcw` 文件, 包含一个模型/地图的所有组成部分.\r\n\r\n\r\n\r\n比较新的缓存文件没法直接用来hotswap, 但是可以用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包后获取[avatar id](VRChat/words/avatar id.md), 从官方服务器获取能hotswap的原包\r\n\r\n\r\n\r\n旧文件(avatar 2.0)有些可以直接用来hotswap\r\n\r\n\r\n\r\n\r\n\r\n### (二) 获取avatar id \u0026 下载\r\n\r\n用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包, 然后打开vscode, 在解包的文件夹里搜索`avtr_`, 不出意外一般能找到. \r\n\r\navtr_xxxx_xxxx_xxx的就是avatar id.\r\n\r\n\r\n\r\n没有的话也可以试试用 [Notepad++ ](https://notepad-plus-plus.org/downloads/)以二进制格式打开, 然后再搜索\r\n\r\n\r\n\r\n拿到avatar id以后去[ripper store](https://ripper.store/id-downloader),这个工具可以直接输入id 从vrchat的官方下载原包.\r\n\r\n\r\n\r\n然后你会拿到一个格式是`.vrca`的文件, 下一步拿来hotswap, 替换掉一个空白模型上传 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n## Hotswap\r\n\r\n在Unity里新建任意一个3d形状, 直接加上SDK要求的`avatarDescriptor`和`Animator`模块, 点击上传:\r\n\r\n\r\n\r\n对上传模型不熟的可以看→ [上传模型](VRChat/上传模型.md)\r\n\r\n\r\n\r\n![Pasted image 20220306073259.png](assets/Pasted image 20220306073259.png)\r\n\r\n\r\n\r\n填好信息, 点击Build\u0026Upload, 生成Blueprint ID:\r\n\r\n![Pasted image 20220306073314.png](assets/Pasted image 20220306073314.png)\r\n\r\n\r\n\r\n生成的blueprint ID可以在pipeline manager看到:\r\n\r\n![Pasted image 20220306073329.png](assets/Pasted image 20220306073329.png)\r\n\r\n\r\n\r\n此时unity里会停在让你填写名字和简介, 以及上传照片的地方;\r\n\r\n\r\n\r\n使用[AssetsBundleExtractor](https://link.zhihu.com/?target=https%3A//github.com/DerPopo/UABE/releases)解压之前获取的.vrca文件:\r\n\r\n\r\n\r\n![Pasted image 20220306073342.png](assets/Pasted image 20220306073342.png)\r\n\r\n\r\n\r\n打开notepad++, 查找替换掉里面的 `avtr_xxxx_xxx`为unity里新的blueprint id\r\n\r\n![Pasted image 20220306073426.png](assets/Pasted image 20220306073426.png)\r\n\r\n\r\n\r\n保存后再次使用Assets Bundle Etractor, 用compress功能重新打包成vrca文件, 命名为`custom.vrca`\r\n\r\n\r\n\r\n![Pasted image 20220306073450.png](assets/Pasted image 20220306073450.png)\r\n\r\n\r\n\r\n打开C盘`AppData\\Local\\Temp\\DefaultCompany\\项目名`, 用新的custom.vrca替换掉同名文件, 再在unity里点击上传, hotswap完成.\r\n\r\n\r\n\r\n过一段时间打开vrchat官网, 看到自己的avatar列表里已经出现了偷来的新模型:\r\n\r\n![Pasted image 20220306073539.png](assets/Pasted image 20220306073539.png)\r\n\r\n\r\n\r\n整套流程看上去麻烦, 但也有很多自动化上传的工具, 点几下鼠标你的模型就偷到手了, 甚至连获取缓存的步骤都不需要, 知道你的id就可以从VRChat 官方API下载所有你拥有和喜欢过的模型. 本人不提倡这种做法所以不做介绍.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n### (三点五) 补充\r\n\r\n\r\n\r\n现成.vrca商店里最有名的大概是[RipperStore Official.](https://ripper.store/index)   但其实还有很多其他的站, 只要是提供vrca的都差不多.\r\n\r\n\r\n\r\n⚠️注意ripper store的相当一部分包有无法修复的脚本错误, 是采集的时候没搞好. 20换1也不是很划算. 不如自己获取缓存后解包直接拿.\r\n\r\n\r\n\r\n⚠️有些钓鱼网站会在下载的包里带有自动执行的dll, 如果解包后导入unity就会自动上传, 收集你的cookie/ip/vrchat账号等信息. 之前有个公司叫akisoba, 建了个分发模型的钓鱼网站叫sanctuary.moe, 专门就干这事. 虽然现在被骂没了.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n[VRChat](VRChat/VRChat.md)",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "content": "\u003e 2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.\r\n\r\n\r\n\r\nHotswap, 一般用来指软件运行中改变它行为. \r\n\r\n\r\n\r\n在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.\r\n\r\n\r\n\r\nHotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去. \r\n\r\n\r\n\r\n缺点是如果想改的话还是得解包了自己修复.\r\n\r\n\r\n\r\n## 获取模型包\r\n\r\n\r\n\r\n用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:\r\n\r\n\r\n\r\n### (一) 从缓存提取\r\n\r\n\r\n\r\n去vrchat的缓存目录, 默认是 `%AppData%\\..\\LocalLow\\VRChat\\vrchat`\r\n\r\n\r\n\r\n里面有一个叫做`Cache-WindowsPlayer` 的文件夹, 里面是你下载的其他人模型/地图的缓存, 大概长这样:\r\n\r\n![image20220306071013.png](assets/image20220306071013.png)\r\n\r\n\r\n\r\n每个目录代表一个模型或地图的文件, 点进去有两个子文件, 分别叫`__data`和`__info`;\r\n\r\n\r\n\r\n其中`__data` 就是想要解包的目标文件, 里面是换了格式的`.vrca` / `.vrcw` 文件, 包含一个模型/地图的所有组成部分.\r\n\r\n\r\n\r\n比较新的缓存文件没法直接用来hotswap, 但是可以用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包后获取[avatar-id](VRChat/words/avatar-id.md), 从官方服务器获取能hotswap的原包\r\n\r\n\r\n\r\n旧文件(avatar 2.0)有些可以直接用来hotswap\r\n\r\n\r\n\r\n\r\n\r\n### (二) 获取avatar id \u0026 下载\r\n\r\n用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包, 然后打开vscode, 在解包的文件夹里搜索`avtr_`, 不出意外一般能找到. \r\n\r\navtr_xxxx_xxxx_xxx的就是avatar id.\r\n\r\n\r\n\r\n没有的话也可以试试用 [Notepad++ ](https://notepad-plus-plus.org/downloads/)以二进制格式打开, 然后再搜索\r\n\r\n\r\n\r\n拿到avatar id以后去[ripper store](https://ripper.store/id-downloader),这个工具可以直接输入id 从vrchat的官方下载原包.\r\n\r\n\r\n\r\n然后你会拿到一个格式是`.vrca`的文件, 下一步拿来hotswap, 替换掉一个空白模型上传 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n## Hotswap\r\n\r\n在Unity里新建任意一个3d形状, 直接加上SDK要求的`avatarDescriptor`和`Animator`模块, 点击上传:\r\n\r\n\r\n\r\n对上传模型不熟的可以看→ [上传模型](VRChat/上传模型.md)\r\n\r\n\r\n\r\n![image20220306073259.png](assets/image20220306073259.png)\r\n\r\n\r\n\r\n填好信息, 点击Build\u0026Upload, 生成Blueprint ID:\r\n\r\n![image20220306073314.png](assets/image20220306073314.png)\r\n\r\n\r\n\r\n生成的blueprint ID可以在pipeline manager看到:\r\n\r\n![image20220306073329.png](assets/image20220306073329.png)\r\n\r\n\r\n\r\n此时unity里会停在让你填写名字和简介, 以及上传照片的地方;\r\n\r\n\r\n\r\n使用[AssetsBundleExtractor](https://link.zhihu.com/?target=https%3A//github.com/DerPopo/UABE/releases)解压之前获取的.vrca文件:\r\n\r\n\r\n\r\n![image20220306073342.png](assets/image20220306073342.png)\r\n\r\n\r\n\r\n打开notepad++, 查找替换掉里面的 `avtr_xxxx_xxx`为unity里新的blueprint id\r\n\r\n![image20220306073426.png](assets/image20220306073426.png)\r\n\r\n\r\n\r\n保存后再次使用Assets Bundle Etractor, 用compress功能重新打包成vrca文件, 命名为`custom.vrca`\r\n\r\n\r\n\r\n![image20220306073450.png](assets/image20220306073450.png)\r\n\r\n\r\n\r\n打开C盘`AppData\\Local\\Temp\\DefaultCompany\\项目名`, 用新的custom.vrca替换掉同名文件, 再在unity里点击上传, hotswap完成.\r\n\r\n\r\n\r\n过一段时间打开vrchat官网, 看到自己的avatar列表里已经出现了偷来的新模型:\r\n\r\n![image20220306073539.png](assets/image20220306073539.png)\r\n\r\n\r\n\r\n整套流程看上去麻烦, 但也有很多自动化上传的工具, 点几下鼠标你的模型就偷到手了, 甚至连获取缓存的步骤都不需要, 知道你的id就可以从VRChat 官方API下载所有你拥有和喜欢过的模型. 本人不提倡这种做法所以不做介绍.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n### (三点五) 补充\r\n\r\n\r\n\r\n现成.vrca商店里最有名的大概是[RipperStore Official.](https://ripper.store/index)   但其实还有很多其他的站, 只要是提供vrca的都差不多.\r\n\r\n\r\n\r\n⚠️注意ripper store的相当一部分包有无法修复的脚本错误, 是采集的时候没搞好. 20换1也不是很划算. 不如自己获取缓存后解包直接拿.\r\n\r\n\r\n\r\n⚠️有些钓鱼网站会在下载的包里带有自动执行的dll, 如果解包后导入unity就会自动上传, 收集你的cookie/ip/vrchat账号等信息. 之前有个公司叫akisoba, 建了个分发模型的钓鱼网站叫sanctuary.moe, 专门就干这事. 虽然现在被骂没了.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n[VRChat](VRChat/VRChat.md)",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/VRChat/words/avatar-id": {
     "title": "Untitled Page",
-    "content": "打开unity, 在pipeline manager 能看到的\"Blueprint ID\", 其实就是avatar id.\r\n\r\n\r\n\r\n\r\n\r\n![Pasted image 20220306071615.png](assets/Pasted image 20220306071615.png)\r\n\r\n\r\n\r\n\r\n\r\n## 用途\r\n\r\n\r\n\r\n对于**public**模型: 可以在世界里用[avatar pedestal](VRChat/words/avatar pedestal.md)进行克隆, 即使原主人没有开允许克隆也一样可以\r\n\r\n\r\n\r\n对于**private**模型: 可以靠avatar id从官方下载到原包, 进行[hotswap](VRChat/hotswap.md)\r\n",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "content": "打开unity, 在pipeline manager 能看到的\"Blueprint ID\", 其实就是avatar id.\r\n\r\n\r\n\r\n\r\n\r\n![image20220306071615.png](assets/image20220306071615.png)\r\n\r\n\r\n\r\n\r\n\r\n## 用途\r\n\r\n\r\n\r\n对于**public**模型: 可以在世界里用[avatar-pedestal](VRChat/words/avatar-pedestal.md)进行克隆, 即使原主人没有开允许克隆也一样可以\r\n\r\n\r\n\r\n对于**private**模型: 可以靠avatar id从官方下载到原包, 进行[hotswap](VRChat/hotswap.md)\r\n",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/VRChat/words/avatar-pedestal": {
     "title": "Untitled Page",
     "content": "todo\r\n",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/VRChat/上传模型": {
     "title": "上传模型",
     "content": "上传模型:\r\n\r\n\r\n\r\n1.  设置unitysdk ([Setting up the SDK (vrchat.com)](https://docs.vrchat.com/docs/setting-up-the-sdk))\r\n\r\n2. Sdk3 下载地址 [VRChat - Home](https://vrchat.com/home/download)\r\n\r\n3.  根据介绍导入各种unity包 (直接双击), 包括VRChatSDK\r\n\r\n4.  新建一个scene把模型拖到里面去\r\n\r\n5.  VRChatSDK - build - publish\r\n\r\n6.  弹出新窗口里设置好名字等以后上传\r\n\r\n7.  注意console, 有时候东西没反应, 错误提示写在console里面\r\n\r\n\r\n\r\n\r\n\r\n[VRChat](VRChat/VRChat.md)",
-    "lastmodified": "2022-03-06T13:02:04.891402365Z",
+    "lastmodified": "2022-03-06T13:33:58.859030706Z",
     "tags": null
   },
   "/english/EngNote1": {
     "title": "EngNote1",
     "content": "engnote1\r\n\r\n\r\n\r\n[engNote](english/engNote.md)",
-    "lastmodified": "2022-03-06T13:02:04.895402373Z",
+    "lastmodified": "2022-03-06T13:33:58.871030842Z",
     "tags": null
   },
   "/english/engNote": {
     "title": "engNote",
     "content": "myEnglishNote\r\n\r\n[EngNote1](english/EngNote1.md)",
-    "lastmodified": "2022-03-06T13:02:04.895402373Z",
+    "lastmodified": "2022-03-06T13:33:58.871030842Z",
     "tags": null
   },
   "/english/manulLinkedList": {
     "title": "manulLinkedList",
     "content": "手动用md格式引用的文章;\r\n\r\n\r\n\r\n引用其他文章:\r\n\r\n[engNote](english/engNote.md)\r\n\r\n[../建模/水平线]()\r\n\r\n[../建模/创建笔记]()",
-    "lastmodified": "2022-03-06T13:02:04.895402373Z",
+    "lastmodified": "2022-03-06T13:33:58.871030842Z",
     "tags": null
   },
   "/建模/创建笔记": {
     "title": "创建笔记",
     "content": "这里是创建笔记",
-    "lastmodified": "2022-03-06T13:02:04.895402373Z",
+    "lastmodified": "2022-03-06T13:33:58.871030842Z",
     "tags": null
   },
   "/建模/未命名": {
     "title": "Untitled Page",
     "content": "",
-    "lastmodified": "2022-03-06T13:02:04.895402373Z",
+    "lastmodified": "2022-03-06T13:33:58.871030842Z",
     "tags": null
   },
   "/建模/水平线": {
     "title": "水平线",
     "content": "创建水平线的办法.\r\n\r\n\r\n\r\n\r\n\r\n-\u003e [创建笔记](建模/创建笔记.md)\r\n\r\n\r\n\r\n\r\n\r\n返回: [_index](_index.md)",
-    "lastmodified": "2022-03-06T13:02:04.895402373Z",
+    "lastmodified": "2022-03-06T13:33:58.871030842Z",
     "tags": null
   }
 }
