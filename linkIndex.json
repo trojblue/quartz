@@ -29,7 +29,7 @@
         },
         {
           "source": "/",
-          "target": "/",
+          "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
           "text": "Blender资源"
         }
       ],
@@ -92,11 +92,6 @@
     "backlinks": {
       "/": [
         {
-          "source": "/",
-          "target": "/",
-          "text": "Blender资源"
-        },
-        {
           "source": "/english/manulLinkedList",
           "target": "/",
           "text": "../建模/水平线"
@@ -124,6 +119,13 @@
           "source": "/",
           "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
           "text": "水平线"
+        }
+      ],
+      "/Blender/Blender%E8%B5%84%E6%BA%90": [
+        {
+          "source": "/",
+          "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
         }
       ],
       "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B": [
@@ -223,7 +225,7 @@
     },
     {
       "source": "/",
-      "target": "/",
+      "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
       "text": "Blender资源"
     },
     {
