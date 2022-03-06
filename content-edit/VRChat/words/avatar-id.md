@@ -1,3 +1,9 @@
+---
+title: "avatar-id"
+tags:
+- word
+---
+
 打开unity, 在pipeline manager 能看到的"Blueprint ID", 其实就是avatar id.
 
 
