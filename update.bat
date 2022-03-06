@@ -8,3 +8,6 @@ set mytime=%time%
 git add .
 git commit -m "automatic commit %mydate% : %mytime%"
 git push
+
+echo "自动上传完成!"
+pause
