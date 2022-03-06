@@ -2,7 +2,7 @@
 title: "hotswap"
 tags:
 - VRChat
-- Rip
+- 教程
 ---
 
 > 2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
@@ -91,6 +91,7 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 ⚠️有些钓鱼网站会在下载的包里带有自动执行的dll, 如果解包后导入unity就会自动上传, 收集你的cookie/ip/vrchat账号等信息. 之前有个公司叫akisoba, 建了个分发模型的钓鱼网站叫sanctuary.moe, 专门就干这事. 虽然现在被骂没了.
 
+关于如何对抗模型偷取, 见 → [[对抗模型偷取]]
 
 
 [[VRChat]]
