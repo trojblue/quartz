@@ -1,11 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%9C%AA%E5%91%BD%E5%90%8D/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%9C%AA%E5%91%BD%E5%90%8D/</guid><description/></item><item><title>Blender资源</title><link>https://q.noos.ca/Blender/Blender%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/Blender/Blender%E8%B5%84%E6%BA%90/</guid><description>一些实用的Blender/3d资源:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/Blender/Blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/Blender/Blender/</guid><description>Blender主页</description></item><item><title/><link>https://q.noos.ca/VRChat/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
+![Pasted image 20220306071615.png](assets/Pasted image 20220306071615.png)
+用途 对于public模型: 可以在世界里用[avatar pedestal](VRChat/words/avatar pedestal.md)进行克隆, 即使原主人没有开允许克隆也一样可以
+对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title/><link>https://q.noos.ca/VRChat/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/words/avatar-pedestal/</guid><description>todo</description></item><item><title/><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%9C%AA%E5%91%BD%E5%90%8D/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%9C%AA%E5%91%BD%E5%90%8D/</guid><description/></item><item><title>Blender资源</title><link>https://q.noos.ca/Blender/Blender%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/Blender/Blender%E8%B5%84%E6%BA%90/</guid><description>一些实用的Blender/3d资源:
 非VRC渠道: Sketchfab:
 Hangar Blocking
 Enviroment Sets
 我的collection: VRC
 Mastering room</description></item><item><title>engNote</title><link>https://q.noos.ca/english/engNote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/english/engNote/</guid><description>myEnglishNote
 EngNote1</description></item><item><title>EngNote1</title><link>https://q.noos.ca/english/EngNote1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/english/EngNote1/</guid><description>engnote1
-engNote</description></item><item><title>manulLinkedList</title><link>https://q.noos.ca/english/manulLinkedList/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/english/manulLinkedList/</guid><description>手动用md格式引用的文章;
+engNote</description></item><item><title>hotswap</title><link>https://q.noos.ca/VRChat/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
+Hotswap, 一般用来指软件运行中改变它行为.
+在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.
+Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
+缺点是如果想改的话还是得解包了自己修复.
+获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
+(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>manulLinkedList</title><link>https://q.noos.ca/english/manulLinkedList/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/english/manulLinkedList/</guid><description>手动用md格式引用的文章;
 引用其他文章:
 engNote
 ../建模/水平线
@@ -14,6 +23,9 @@ VRChat资源
 上传模型</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/VRChat/VRChat%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/VRChat%E8%B5%84%E6%BA%90/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
 Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
 一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
+设置unitysdk ( Setting up the SDK (vrchat.com))
+Sdk3 下载地址 VRChat - Home
+根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>上传模型</title><link>https://q.noos.ca/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
 根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>创建笔记</title><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0/</guid><description>这里是创建笔记</description></item><item><title>水平线</title><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF/</guid><description>创建水平线的办法.

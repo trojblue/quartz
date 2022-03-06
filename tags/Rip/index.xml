@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rip on</title><link>https://q.noos.ca/tags/Rip/</link><description>Recent content in Rip on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/Rip/index.xml" rel="self" type="application/rss+xml"/><item><title>hotswap</title><link>https://q.noos.ca/VRChat/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
+Hotswap, 一般用来指软件运行中改变它行为.
+在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.
+Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
+缺点是如果想改的话还是得解包了自己修复.
+获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
+(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item></channel></rss>

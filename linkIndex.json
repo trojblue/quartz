@@ -4,33 +4,35 @@
       "/": [
         {
           "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
-          "text": "创建笔记"
-        },
-        {
-          "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
-          "text": "水平线"
-        },
-        {
-          "source": "/",
-          "target": "/english/engNote",
-          "text": "engNote"
-        },
-        {
-          "source": "/",
-          "target": "/english/EngNote1",
-          "text": "EngNote1"
-        },
-        {
-          "source": "/",
           "target": "/VRChat/VRChat",
           "text": "VRChat"
         },
         {
           "source": "/",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        },
+        {
+          "source": "/",
           "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
           "text": "Blender资源"
+        }
+      ],
+      "/Blender/Blender资源": [
+        {
+          "source": "/Blender/Blender资源",
+          "target": "/Blender/Blender",
+          "text": "Blender"
         }
       ],
       "/VRChat/VRChat": [
@@ -41,8 +43,46 @@
         },
         {
           "source": "/VRChat/VRChat",
-          "target": "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
           "text": "上传模型"
+        }
+      ],
+      "/VRChat/VRChat资源": [
+        {
+          "source": "/VRChat/VRChat资源",
+          "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
+        },
+        {
+          "source": "/VRChat/VRChat资源",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        }
+      ],
+      "/VRChat/hotswap": [
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        },
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        }
+      ],
+      "/VRChat/words/avatar-id": [
+        {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        }
+      ],
+      "/VRChat/上传模型": [
+        {
+          "source": "/VRChat/上传模型",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
         }
       ],
       "/english/EngNote1": [
@@ -104,38 +144,63 @@
       ],
       "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0": [
         {
-          "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
-          "text": "创建笔记"
-        },
-        {
           "source": "/建模/水平线",
           "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
           "text": "创建笔记"
         }
       ],
-      "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF": [
+      "/Blender/Blender": [
         {
-          "source": "/",
-          "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
-          "text": "水平线"
+          "source": "/Blender/Blender资源",
+          "target": "/Blender/Blender",
+          "text": "Blender"
         }
       ],
       "/Blender/Blender%E8%B5%84%E6%BA%90": [
+        {
+          "source": "/VRChat/VRChat资源",
+          "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
+        },
         {
           "source": "/",
           "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
           "text": "Blender资源"
         }
       ],
-      "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B": [
+      "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B": [
         {
           "source": "/VRChat/VRChat",
-          "target": "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        },
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
           "text": "上传模型"
         }
       ],
       "/VRChat/VRChat": [
+        {
+          "source": "/VRChat/VRChat资源",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/VRChat/上传模型",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
         {
           "source": "/",
           "target": "/VRChat/VRChat",
@@ -147,6 +212,23 @@
           "source": "/VRChat/VRChat",
           "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
           "text": "VRChat资源"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
+        }
+      ],
+      "/VRChat/hotswap": [
+        {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
         }
       ],
       "/_index": [
@@ -158,22 +240,12 @@
       ],
       "/english/EngNote1": [
         {
-          "source": "/",
-          "target": "/english/EngNote1",
-          "text": "EngNote1"
-        },
-        {
           "source": "/english/engNote",
           "target": "/english/EngNote1",
           "text": "EngNote1"
         }
       ],
       "/english/engNote": [
-        {
-          "source": "/",
-          "target": "/english/engNote",
-          "text": "engNote"
-        },
         {
           "source": "/english/EngNote1",
           "target": "/english/engNote",
@@ -189,39 +261,69 @@
   },
   "links": [
     {
+      "source": "/Blender/Blender资源",
+      "target": "/Blender/Blender",
+      "text": "Blender"
+    },
+    {
       "source": "/VRChat/VRChat",
       "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
       "text": "VRChat资源"
     },
     {
       "source": "/VRChat/VRChat",
-      "target": "/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+      "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
       "text": "上传模型"
     },
     {
-      "source": "/",
-      "target": "/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0",
-      "text": "创建笔记"
+      "source": "/VRChat/VRChat资源",
+      "target": "/Blender/Blender%E8%B5%84%E6%BA%90",
+      "text": "Blender资源"
     },
     {
-      "source": "/",
-      "target": "/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF",
-      "text": "水平线"
+      "source": "/VRChat/VRChat资源",
+      "target": "/VRChat/VRChat",
+      "text": "VRChat"
     },
     {
-      "source": "/",
-      "target": "/english/engNote",
-      "text": "engNote"
+      "source": "/VRChat/hotswap",
+      "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+      "text": "上传模型"
     },
     {
-      "source": "/",
-      "target": "/english/EngNote1",
-      "text": "EngNote1"
+      "source": "/VRChat/hotswap",
+      "target": "/VRChat/VRChat",
+      "text": "VRChat"
+    },
+    {
+      "source": "/VRChat/words/avatar-id",
+      "target": "/VRChat/hotswap",
+      "text": "hotswap"
+    },
+    {
+      "source": "/VRChat/上传模型",
+      "target": "/VRChat/VRChat",
+      "text": "VRChat"
     },
     {
       "source": "/",
       "target": "/VRChat/VRChat",
       "text": "VRChat"
+    },
+    {
+      "source": "/",
+      "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+      "text": "VRChat资源"
+    },
+    {
+      "source": "/",
+      "target": "/VRChat/hotswap",
+      "text": "hotswap"
+    },
+    {
+      "source": "/",
+      "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+      "text": "上传模型"
     },
     {
       "source": "/",
