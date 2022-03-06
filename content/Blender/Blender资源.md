@@ -20,8 +20,6 @@ tags:
 
 
 
-   
-
 
 
 ## 非VRC渠道:
@@ -81,6 +79,12 @@ MMD:
 3D素材:
 
 [https://polyhaven.com/](https://polyhaven.com/) 免费素材
+
+
+
+
+
+[Blender](Blender/Blender.md)
 
 
 

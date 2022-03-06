@@ -22,4 +22,4 @@ VRChat主页
 
 
 
-[上传模型](VRChat/Basics/上传模型.md)
+[上传模型](VRChat/上传模型.md)
