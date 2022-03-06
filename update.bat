@@ -3,7 +3,7 @@
 set FIX_DIR = "D:\CSC2\Obsidian-wiki-fix\src"
 set QUARTZ_DIR = "D:\quartz"
 
-cd %SOURCE_DIR%
+cd %FIX_DIR%
 python app.py
 cd %QUARTZ_DIR%
 
