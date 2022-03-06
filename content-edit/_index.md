@@ -12,7 +12,7 @@ tags:
 [[VRChat资源]]
 [[hotswap]]
 [[上传模型]]
-[[avatar id]]
+[[avatar-id]]
 
 
 ## Blender:

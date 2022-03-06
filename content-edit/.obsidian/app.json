@@ -8,5 +8,6 @@
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
   "lineWrap": true,
-  "smartIndentList": false
+  "smartIndentList": false,
+  "alwaysUpdateLinks": true
 }

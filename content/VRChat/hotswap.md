@@ -50,7 +50,7 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 
 里面有一个叫做`Cache-WindowsPlayer` 的文件夹, 里面是你下载的其他人模型/地图的缓存, 大概长这样:
 
-![Pasted image 20220306071013.png](assets/Pasted image 20220306071013.png)
+![image20220306071013.png](assets/image20220306071013.png)
 
 
 
@@ -62,7 +62,7 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 
 
 
-比较新的缓存文件没法直接用来hotswap, 但是可以用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包后获取[avatar id](VRChat/words/avatar id.md), 从官方服务器获取能hotswap的原包
+比较新的缓存文件没法直接用来hotswap, 但是可以用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包后获取[avatar-id](VRChat/words/avatar-id.md), 从官方服务器获取能hotswap的原包
 
 
 
@@ -106,19 +106,19 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 
 
-![Pasted image 20220306073259.png](assets/Pasted image 20220306073259.png)
+![image20220306073259.png](assets/image20220306073259.png)
 
 
 
 填好信息, 点击Build&Upload, 生成Blueprint ID:
 
-![Pasted image 20220306073314.png](assets/Pasted image 20220306073314.png)
+![image20220306073314.png](assets/image20220306073314.png)
 
 
 
 生成的blueprint ID可以在pipeline manager看到:
 
-![Pasted image 20220306073329.png](assets/Pasted image 20220306073329.png)
+![image20220306073329.png](assets/image20220306073329.png)
 
 
 
@@ -130,13 +130,13 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 
 
-![Pasted image 20220306073342.png](assets/Pasted image 20220306073342.png)
+![image20220306073342.png](assets/image20220306073342.png)
 
 
 
 打开notepad++, 查找替换掉里面的 `avtr_xxxx_xxx`为unity里新的blueprint id
 
-![Pasted image 20220306073426.png](assets/Pasted image 20220306073426.png)
+![image20220306073426.png](assets/image20220306073426.png)
 
 
 
@@ -144,7 +144,7 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 
 
-![Pasted image 20220306073450.png](assets/Pasted image 20220306073450.png)
+![image20220306073450.png](assets/image20220306073450.png)
 
 
 
@@ -154,7 +154,7 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 过一段时间打开vrchat官网, 看到自己的avatar列表里已经出现了偷来的新模型:
 
-![Pasted image 20220306073539.png](assets/Pasted image 20220306073539.png)
+![image20220306073539.png](assets/image20220306073539.png)
 
 
 

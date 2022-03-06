@@ -26,7 +26,7 @@ tags:
 
 [上传模型](VRChat/上传模型.md)
 
-[avatar id](VRChat/words/avatar id.md)
+[avatar-id](VRChat/words/avatar-id.md)
 
 
 
