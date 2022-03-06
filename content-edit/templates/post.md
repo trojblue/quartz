@@ -1,4 +1,5 @@
 ---
 title: "{{title}}"
-tag:
+tags:
+- default
 ---
