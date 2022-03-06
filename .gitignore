@@ -2,6 +2,7 @@
 public
 resources
 .idea
+.vscode
 content/.obsidian
 static/linkIndex.json
 static/contentIndex.json
