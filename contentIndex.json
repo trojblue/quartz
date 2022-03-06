@@ -2,67 +2,67 @@
   "/": {
     "title": "主页",
     "content": "## 测试笔记:\r\n\r\n[创建笔记](建模/创建笔记.md)\r\n\r\n[水平线](建模/水平线.md)\r\n\r\n[engNote](english/engNote.md)\r\n\r\n[EngNote1](english/EngNote1.md)\r\n\r\n![EN_filename_under_CN_folder](中文文件夹/EN_filename_under_CN_folder.md)\r\n\r\n\r\n\r\n\r\n## VRChat:\r\n\r\n[VRChat](VRChat/VRChat.md)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n## Blender:\r\n\r\n[Blender资源](Blender/Blender资源.md)",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.94875881Z",
     "tags": null
   },
   "/Blender/Blender资源": {
     "title": "Blender资源",
     "content": "一些实用的Blender/3d资源:\r\n\r\n\r\n\r\n\r\n\r\n   \r\n\r\n\r\n\r\n## 非VRC渠道:\r\n\r\n\r\n\r\n[Sketchfab](https://sketchfab.com/search?type=models):\r\n\r\n\r\n\r\n-   [Hangar Blocking](https://sketchfab.com/3d-models/hangar-blocking-bdb37f544b764d9e8e72708a970bae13)\r\n\r\n-   [Enviroment Sets](https://sketchfab.com/gutemnasc/collections/enviroment-sets)\r\n\r\n-   我的collection: [VRC](https://sketchfab.com/trojblue/collections/vrc)\r\n\r\n-   [Mastering room](https://3dwarehouse.sketchup.com/model/u8128f776-c2c1-461d-bfce-26c80031b1fe/Cube-1-Audio-studio-mastering-room?hl=en\u0026login=true)\r\n\r\n\r\n\r\n3D Warehouse: 工业模型, nb\r\n\r\n\r\n\r\n[3D Warehouse (sketchup.com)](https://3dwarehouse.sketchup.com/)\r\n\r\n\r\n\r\n非VRChat模型:\r\n\r\n\r\n\r\n[https://mmda.booru.org/](https://mmda.booru.org/)\r\n\r\n\r\n\r\n[https://bowlroll.net/r18/file/tag/MikuMikuDance](https://bowlroll.net/r18/file/tag/MikuMikuDance)\r\n\r\n\r\n\r\n[https://smutba.se/](https://smutba.se/)\r\n\r\n\r\n\r\n模型屋(是这名字么)\r\n\r\n\r\n\r\nMMD:\r\n\r\n\r\n\r\n-   [MMDArchive 1](https://mmda.booru.org/index.php?page=post\u0026s=view\u0026id=2592); [MMDArchive](https://mmda.booru.org/index.php?page=post\u0026s=view\u0026id=2445)\r\n\r\n\r\n\r\n3D素材:\r\n\r\n[https://polyhaven.com/](https://polyhaven.com/) 免费素材",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.94875881Z",
     "tags": null
   },
   "/VRChat/Basics/上传模型": {
     "title": "上传模型",
     "content": "上传模型:\r\n\r\n\r\n\r\n1.  设置unitysdk ([Setting up the SDK (vrchat.com)](https://docs.vrchat.com/docs/setting-up-the-sdk))\r\n\r\n2. Sdk3 下载地址 [VRChat - Home](https://vrchat.com/home/download)\r\n\r\n3.  根据介绍导入各种unity包 (直接双击), 包括VRChatSDK\r\n\r\n4.  新建一个scene把模型拖到里面去\r\n\r\n5.  VRChatSDK - build - publish\r\n\r\n6.  弹出新窗口里设置好名字等以后上传\r\n\r\n7.  注意console, 有时候东西没反应, 错误提示写在console里面",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.94875881Z",
     "tags": null
   },
   "/VRChat/VRChat": {
     "title": "VRChat",
     "content": "VRChat主页\r\n\r\n\r\n\r\n[VRChat资源](VRChat/VRChat资源.md)\r\n\r\n\r\n\r\n[上传模型](VRChat/Basics/上传模型.md)",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.94875881Z",
     "tags": null
   },
   "/VRChat/VRChat资源": {
     "title": "VRChat资源",
     "content": "---\r\n\r\n\r\n\r\n   \r\n\r\n\r\n\r\n## 合法渠道:\r\n\r\n\r\n\r\nPrefab database: [Prefabs VRChat - Google 云端硬盘](https://docs.google.com/spreadsheets/d/e/2PACX-1vTP-eIkYLZh7pDhpO-untxy1zbuoiqdzVP2z5-vg_9ijBW7k8ZC9VP6cVL-ct5yKrySPBPJ6V2ymlWS/pubhtml#)\r\n\r\n\r\n\r\nGlobal illumination [[Free]VRChat Prefabs - Update RealtimeGI for world creation](https://booth.pm/en/items/2903091)\r\n\r\n\r\n\r\n一些shader fes上的东西 [PiMaker/VRChatUnityThings:](https://github.com/PiMaker/VRChatUnityThings#procedural-night-skybox)\r\n\r\n\r\n\r\nPublic avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.com/document/d/1aHtMbCe6FdT2rdQCJQbSY3P4JHXiU1YRWzZg83mlAk0/edit?usp=sharing)\r\n\r\n\r\n\r\n\r\n\r\n## 非合法渠道:\r\n\r\n\r\n\r\n[Nulled - VRChat booth文件包](https://www.nulled.to/topic/771040-%E3%80%90vrchat%E3%80%91cracking-3d-model-in-booth%E3%80%80misheluachwi-dolaciws-01a-mod2robe/page-1)\r\n\r\n\r\n\r\n[Kemono - Booth/Gumroad等免费下载](https://kemono.party/)\r\n\r\n\r\n\r\n   \r\n\r\n\r\n\r\n## 非VRC渠道:\r\n\r\n\r\n\r\n[Sketchfab](https://sketchfab.com/search?type=models):\r\n\r\n\r\n\r\n-   [Hangar Blocking](https://sketchfab.com/3d-models/hangar-blocking-bdb37f544b764d9e8e72708a970bae13)\r\n\r\n-   [Enviroment Sets](https://sketchfab.com/gutemnasc/collections/enviroment-sets)\r\n\r\n-   我的collection: [VRC](https://sketchfab.com/trojblue/collections/vrc)\r\n\r\n-   [Mastering room](https://3dwarehouse.sketchup.com/model/u8128f776-c2c1-461d-bfce-26c80031b1fe/Cube-1-Audio-studio-mastering-room?hl=en\u0026login=true)\r\n\r\n\r\n\r\n3D Warehouse: 工业模型, nb\r\n\r\n\r\n\r\n[3D Warehouse (sketchup.com)](https://3dwarehouse.sketchup.com/)\r\n\r\n\r\n\r\n非VRChat模型:\r\n\r\n\r\n\r\n[https://mmda.booru.org/](https://mmda.booru.org/)\r\n\r\n\r\n\r\n[https://bowlroll.net/r18/file/tag/MikuMikuDance](https://bowlroll.net/r18/file/tag/MikuMikuDance)\r\n\r\n\r\n\r\n[https://smutba.se/](https://smutba.se/)\r\n\r\n\r\n\r\n模型屋(是这名字么)\r\n\r\n\r\n\r\nMMD:\r\n\r\n\r\n\r\n-   [MMDArchive 1](https://mmda.booru.org/index.php?page=post\u0026s=view\u0026id=2592); [MMDArchive](https://mmda.booru.org/index.php?page=post\u0026s=view\u0026id=2445)\r\n\r\n\r\n\r\n3D素材:\r\n\r\n\r\n\r\n[https://polyhaven.com/](https://polyhaven.com/) 免费素材\r\n\r\n\r\n\r\n免费材质[Julio Sillet 3D Art (gumroad.com)](https://juliosillet.gumroad.com/?sort=page_layout#jkxLa)",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.94875881Z",
     "tags": null
   },
   "/english/EngNote1": {
     "title": "EngNote1",
     "content": "engnote1\r\n\r\n\r\n\r\n[engNote](english/engNote.md)",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.952758824Z",
     "tags": null
   },
   "/english/engNote": {
     "title": "engNote",
     "content": "myEnglishNote\r\n\r\n[EngNote1](english/EngNote1.md)",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.952758824Z",
     "tags": null
   },
   "/english/manulLinkedList": {
     "title": "manulLinkedList",
     "content": "手动用md格式引用的文章;\r\n\r\n\r\n\r\n引用其他文章:\r\n\r\n[engNote](english/engNote.md)\r\n\r\n[../建模/水平线]()\r\n\r\n[../建模/创建笔记]()",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.952758824Z",
     "tags": null
   },
   "/建模/创建笔记": {
     "title": "创建笔记",
     "content": "这里是创建笔记",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.952758824Z",
     "tags": null
   },
   "/建模/未命名": {
     "title": "Untitled Page",
     "content": "",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.952758824Z",
     "tags": null
   },
   "/建模/水平线": {
     "title": "水平线",
     "content": "创建水平线的办法.\r\n\r\n\r\n\r\n\r\n\r\n-\u003e [创建笔记](建模/创建笔记.md)\r\n\r\n\r\n\r\n\r\n\r\n返回: [_index](_index.md)",
-    "lastmodified": "2022-03-06T10:58:14.628935684Z",
+    "lastmodified": "2022-03-06T12:49:24.952758824Z",
     "tags": null
   }
 }
