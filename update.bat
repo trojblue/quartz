@@ -1,6 +1,6 @@
 @echo off
 cd D:\CSC2\Obsidian-wiki-fix\src
-python view.py
+python app.py
 cd D:\quartz
 
 for /F "tokens=2" %%i in ('date /t') do set mydate=%%i
