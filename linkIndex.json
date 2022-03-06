@@ -77,6 +77,11 @@
         },
         {
           "source": "/VRChat/hotswap",
+          "target": "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
+          "text": "对抗模型偷取"
+        },
+        {
+          "source": "/VRChat/hotswap",
           "target": "/VRChat/VRChat",
           "text": "VRChat"
         }
@@ -103,6 +108,18 @@
           "source": "/VRChat/上传模型",
           "target": "/VRChat/VRChat",
           "text": "VRChat"
+        }
+      ],
+      "/VRChat/对抗模型偷取": [
+        {
+          "source": "/VRChat/对抗模型偷取",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/VRChat/对抗模型偷取",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
         }
       ],
       "/english/EngNote1": [
@@ -205,6 +222,13 @@
           "text": "上传模型"
         }
       ],
+      "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96": [
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
+          "text": "对抗模型偷取"
+        }
+      ],
       "/VRChat/VRChat": [
         {
           "source": "/VRChat/VRChat资源",
@@ -218,6 +242,11 @@
         },
         {
           "source": "/VRChat/上传模型",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/VRChat/对抗模型偷取",
           "target": "/VRChat/VRChat",
           "text": "VRChat"
         },
@@ -247,6 +276,11 @@
         },
         {
           "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        },
+        {
+          "source": "/VRChat/对抗模型偷取",
           "target": "/VRChat/hotswap",
           "text": "hotswap"
         },
@@ -341,6 +375,11 @@
     },
     {
       "source": "/VRChat/hotswap",
+      "target": "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
+      "text": "对抗模型偷取"
+    },
+    {
+      "source": "/VRChat/hotswap",
       "target": "/VRChat/VRChat",
       "text": "VRChat"
     },
@@ -363,6 +402,16 @@
       "source": "/VRChat/上传模型",
       "target": "/VRChat/VRChat",
       "text": "VRChat"
+    },
+    {
+      "source": "/VRChat/对抗模型偷取",
+      "target": "/VRChat/VRChat",
+      "text": "VRChat"
+    },
+    {
+      "source": "/VRChat/对抗模型偷取",
+      "target": "/VRChat/hotswap",
+      "text": "hotswap"
     },
     {
       "source": "/",

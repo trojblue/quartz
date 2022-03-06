@@ -20,7 +20,8 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 引用其他文章:
 engNote
 ../建模/水平线
-../建模/创建笔记</description></item><item><title>VRChat</title><link>https://q.noos.ca/VRChat/VRChat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/VRChat/</guid><description>VRChat主页
+../建模/创建笔记</description></item><item><title>VRChat</title><link>https://q.noos.ca/VRChat/VRChat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/VRChat/</guid><description>VRChat主页, 暂时还没什么东西
+看backlink就行了
 VRChat资源
 上传模型</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/VRChat/VRChat%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/VRChat%E8%B5%84%E6%BA%90/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
 Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
@@ -30,6 +31,8 @@ Sdk3 下载地址 VRChat - Home
 根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>上传模型</title><link>https://q.noos.ca/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
-根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>创建笔记</title><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0/</guid><description>这里是创建笔记</description></item><item><title>水平线</title><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF/</guid><description>创建水平线的办法.
+根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>创建笔记</title><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0/</guid><description>这里是创建笔记</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
+也就是说, 模型本身可以没有控制表情等的脚本, 全都放到外部来运行, 这样即使模型本身被盗, 拿到的也是没有表情/动作等的不完全体, 无法直接进行hotswap, 解包的价值也有限.
+缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item><item><title>水平线</title><link>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/%E5%BB%BA%E6%A8%A1/%E6%B0%B4%E5%B9%B3%E7%BA%BF/</guid><description>创建水平线的办法.
 -&amp;gt; 创建笔记
 返回: _index</description></item></channel></rss>
