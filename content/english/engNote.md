@@ -1,5 +1,9 @@
 ---
+
 title: "engNote"
+
 ---
+
 myEnglishNote
-[[EngNote1]]
+
+[EngNote1](english/EngNote1.md)

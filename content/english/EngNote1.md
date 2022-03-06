@@ -1,6 +1,11 @@
 ---
+
 title: "EngNote1"
+
 ---
+
 engnote1
 
-[[engNote]]
+
+
+[engNote](english/engNote.md)
