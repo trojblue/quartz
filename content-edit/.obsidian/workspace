@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blender/Blender资源.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/Blender资源.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "442b32bc8cb03914",
   "lastOpenFiles": [
-    "Blender/Blender资源.md",
     "_index.md",
-    "VRChat/VRChat资源.md",
     "VRChat/VRChat.md",
-    "VRChat/Basics/上传模型.md",
-    "建模/未命名.md",
-    "建模/水平线.md",
-    "建模/创建笔记.md",
-    "private/private-note.md",
-    "templates/post.md"
+    "Blender/Blender.md",
+    "Blender/Blender资源.md",
+    "VRChat/VRChat资源.md",
+    "VRChat/hotswap.md",
+    "VRChat/上传模型.md",
+    "VRChat/words/avatar id.md",
+    "VRChat/words/avatar pedestal.md",
+    "建模/未命名.md"
   ]
 }

@@ -24,42 +24,9 @@ Public avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.co
 
 [Kemono - Booth/Gumroad等免费下载](https://kemono.party/)
 
+[一些常见的booth文件模型包 - GDrive](https://drive.google.com/drive/folders/16RDXb7ETnkL3AZO9xfksPhjAyHk_uVcl?usp=sharing)
    
 
-## 非VRC渠道:
-
-[Sketchfab](https://sketchfab.com/search?type=models):
-
--   [Hangar Blocking](https://sketchfab.com/3d-models/hangar-blocking-bdb37f544b764d9e8e72708a970bae13)
--   [Enviroment Sets](https://sketchfab.com/gutemnasc/collections/enviroment-sets)
--   我的collection: [VRC](https://sketchfab.com/trojblue/collections/vrc)
--   [Mastering room](https://3dwarehouse.sketchup.com/model/u8128f776-c2c1-461d-bfce-26c80031b1fe/Cube-1-Audio-studio-mastering-room?hl=en&login=true)
-
-3D Warehouse: 工业模型, nb
-
-[3D Warehouse (sketchup.com)](https://3dwarehouse.sketchup.com/)
-
-非VRChat模型:
-
-[https://mmda.booru.org/](https://mmda.booru.org/)
-
-[https://bowlroll.net/r18/file/tag/MikuMikuDance](https://bowlroll.net/r18/file/tag/MikuMikuDance)
-
-[https://smutba.se/](https://smutba.se/)
-
-模型屋(是这名字么)
-
-MMD:
-
--   [MMDArchive 1](https://mmda.booru.org/index.php?page=post&s=view&id=2592); [MMDArchive](https://mmda.booru.org/index.php?page=post&s=view&id=2445)
-
-3D素材:
-
-[https://polyhaven.com/](https://polyhaven.com/) 免费素材
-
-免费材质[Julio Sillet 3D Art (gumroad.com)](https://juliosillet.gumroad.com/?sort=page_layout#jkxLa)
-
----
 
 ## Booth快搜:
 
@@ -73,7 +40,11 @@ MMD:
 
 [World Creation | VRCLibrary](https://vrclibrary.com/wiki/shelves/world-creation)
 
-
-   
-
 变声器: [恋声 (xrea.com)](http://koigoemoe.g2.xrea.com/koigoe/koigoe.html)
+
+
+## 开发相关:
+[[Blender资源]]
+
+
+[[VRChat]]

@@ -4,5 +4,9 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "lineWrap": true,
+  "smartIndentList": false
 }

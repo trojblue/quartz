@@ -9,7 +9,6 @@ tags:
 一些实用的Blender/3d资源:
 
 
-   
 
 ## 非VRC渠道:
 
@@ -40,5 +39,8 @@ MMD:
 
 3D素材:
 [https://polyhaven.com/](https://polyhaven.com/) 免费素材
+
+
+[[Blender]]
 
 
