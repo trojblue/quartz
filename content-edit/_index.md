@@ -1,5 +1,5 @@
 ---
-title: "主页"
+title: "Noōs主页"
 tags:
 - default
 ---
@@ -13,7 +13,7 @@ tags:
 [[hotswap]]
 [[上传模型]]
 [[avatar-id]]
-
+[[白毛研究]]
 
 ## Blender:
 [[Blender资源]]

@@ -96,4 +96,4 @@ Public avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.co
 
 
 
-[VRChat](VRChat/VRChat.md)
+[VRChat](vrchat/VRChat.md)
