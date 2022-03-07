@@ -4,32 +4,32 @@
       "/": [
         {
           "source": "/",
-          "target": "/vrchat/VRChat",
+          "target": "/VRChat/VRChat",
           "text": "VRChat"
         },
         {
           "source": "/",
-          "target": "/vrchat/VRChat%E8%B5%84%E6%BA%90",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
           "text": "VRChat资源"
         },
         {
           "source": "/",
-          "target": "/vrchat/hotswap",
+          "target": "/VRChat/hotswap",
           "text": "hotswap"
         },
         {
           "source": "/",
-          "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
           "text": "上传模型"
         },
         {
           "source": "/",
-          "target": "/vrchat/words/avatar-id",
+          "target": "/VRChat/words/avatar-id",
           "text": "avatar-id"
         },
         {
           "source": "/",
-          "target": "/vrchat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
+          "target": "/VRChat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
           "text": "白毛研究"
         },
         {
@@ -48,12 +48,12 @@
       "/VRChat/VRChat": [
         {
           "source": "/VRChat/VRChat",
-          "target": "/vrchat/VRChat%E8%B5%84%E6%BA%90",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
           "text": "VRChat资源"
         },
         {
           "source": "/VRChat/VRChat",
-          "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
           "text": "上传模型"
         }
       ],
@@ -65,29 +65,29 @@
         },
         {
           "source": "/VRChat/VRChat资源",
-          "target": "/vrchat/VRChat",
+          "target": "/VRChat/VRChat",
           "text": "VRChat"
         }
       ],
       "/VRChat/hotswap": [
         {
           "source": "/VRChat/hotswap",
-          "target": "/vrchat/words/avatar-id",
+          "target": "/VRChat/words/avatar-id",
           "text": "avatar-id"
         },
         {
           "source": "/VRChat/hotswap",
-          "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
           "text": "上传模型"
         },
         {
           "source": "/VRChat/hotswap",
-          "target": "/vrchat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
+          "target": "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
           "text": "对抗模型偷取"
         },
         {
           "source": "/VRChat/hotswap",
-          "target": "/vrchat/VRChat",
+          "target": "/VRChat/VRChat",
           "text": "VRChat"
         }
       ],
@@ -99,31 +99,31 @@
         },
         {
           "source": "/VRChat/words/avatar-id",
-          "target": "/vrchat/words/avatar-pedestal",
+          "target": "/VRChat/words/avatar-pedestal",
           "text": "avatar-pedestal"
         },
         {
           "source": "/VRChat/words/avatar-id",
-          "target": "/vrchat/hotswap",
+          "target": "/VRChat/hotswap",
           "text": "hotswap"
         }
       ],
       "/VRChat/上传模型": [
         {
           "source": "/VRChat/上传模型",
-          "target": "/vrchat/VRChat",
+          "target": "/VRChat/VRChat",
           "text": "VRChat"
         }
       ],
       "/VRChat/对抗模型偷取": [
         {
           "source": "/VRChat/对抗模型偷取",
-          "target": "/vrchat/VRChat",
+          "target": "/VRChat/VRChat",
           "text": "VRChat"
         },
         {
           "source": "/VRChat/对抗模型偷取",
-          "target": "/vrchat/hotswap",
+          "target": "/VRChat/hotswap",
           "text": "hotswap"
         }
       ],
@@ -210,11 +210,115 @@
           "text": "Blender资源"
         }
       ],
+      "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B": [
+        {
+          "source": "/VRChat/VRChat",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        },
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+          "text": "上传模型"
+        }
+      ],
+      "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96": [
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
+          "text": "对抗模型偷取"
+        }
+      ],
+      "/VRChat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6": [
+        {
+          "source": "/",
+          "target": "/VRChat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
+          "text": "白毛研究"
+        }
+      ],
+      "/VRChat/VRChat": [
+        {
+          "source": "/VRChat/VRChat资源",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/VRChat/上传模型",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/VRChat/对抗模型偷取",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/VRChat",
+          "text": "VRChat"
+        }
+      ],
+      "/VRChat/VRChat%E8%B5%84%E6%BA%90": [
+        {
+          "source": "/VRChat/VRChat",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
+        }
+      ],
       "/VRChat/hotswap": [
         {
           "source": "/VRChat/words/avatar-id",
           "target": "/VRChat/hotswap",
           "text": "hotswap"
+        },
+        {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        },
+        {
+          "source": "/VRChat/对抗模型偷取",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/hotswap",
+          "text": "hotswap"
+        }
+      ],
+      "/VRChat/words/avatar-id": [
+        {
+          "source": "/VRChat/hotswap",
+          "target": "/VRChat/words/avatar-id",
+          "text": "avatar-id"
+        },
+        {
+          "source": "/",
+          "target": "/VRChat/words/avatar-id",
+          "text": "avatar-id"
+        }
+      ],
+      "/VRChat/words/avatar-pedestal": [
+        {
+          "source": "/VRChat/words/avatar-id",
+          "target": "/VRChat/words/avatar-pedestal",
+          "text": "avatar-pedestal"
         }
       ],
       "/_index": [
@@ -242,112 +346,6 @@
           "target": "/english/engNote",
           "text": "engNote"
         }
-      ],
-      "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B": [
-        {
-          "source": "/VRChat/VRChat",
-          "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
-          "text": "上传模型"
-        },
-        {
-          "source": "/VRChat/hotswap",
-          "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
-          "text": "上传模型"
-        },
-        {
-          "source": "/",
-          "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
-          "text": "上传模型"
-        }
-      ],
-      "/vrchat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96": [
-        {
-          "source": "/VRChat/hotswap",
-          "target": "/vrchat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
-          "text": "对抗模型偷取"
-        }
-      ],
-      "/vrchat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6": [
-        {
-          "source": "/",
-          "target": "/vrchat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
-          "text": "白毛研究"
-        }
-      ],
-      "/vrchat/VRChat": [
-        {
-          "source": "/VRChat/VRChat资源",
-          "target": "/vrchat/VRChat",
-          "text": "VRChat"
-        },
-        {
-          "source": "/VRChat/hotswap",
-          "target": "/vrchat/VRChat",
-          "text": "VRChat"
-        },
-        {
-          "source": "/VRChat/上传模型",
-          "target": "/vrchat/VRChat",
-          "text": "VRChat"
-        },
-        {
-          "source": "/VRChat/对抗模型偷取",
-          "target": "/vrchat/VRChat",
-          "text": "VRChat"
-        },
-        {
-          "source": "/",
-          "target": "/vrchat/VRChat",
-          "text": "VRChat"
-        }
-      ],
-      "/vrchat/VRChat%E8%B5%84%E6%BA%90": [
-        {
-          "source": "/VRChat/VRChat",
-          "target": "/vrchat/VRChat%E8%B5%84%E6%BA%90",
-          "text": "VRChat资源"
-        },
-        {
-          "source": "/",
-          "target": "/vrchat/VRChat%E8%B5%84%E6%BA%90",
-          "text": "VRChat资源"
-        }
-      ],
-      "/vrchat/hotswap": [
-        {
-          "source": "/VRChat/words/avatar-id",
-          "target": "/vrchat/hotswap",
-          "text": "hotswap"
-        },
-        {
-          "source": "/VRChat/对抗模型偷取",
-          "target": "/vrchat/hotswap",
-          "text": "hotswap"
-        },
-        {
-          "source": "/",
-          "target": "/vrchat/hotswap",
-          "text": "hotswap"
-        }
-      ],
-      "/vrchat/words/avatar-id": [
-        {
-          "source": "/VRChat/hotswap",
-          "target": "/vrchat/words/avatar-id",
-          "text": "avatar-id"
-        },
-        {
-          "source": "/",
-          "target": "/vrchat/words/avatar-id",
-          "text": "avatar-id"
-        }
-      ],
-      "/vrchat/words/avatar-pedestal": [
-        {
-          "source": "/VRChat/words/avatar-id",
-          "target": "/vrchat/words/avatar-pedestal",
-          "text": "avatar-pedestal"
-        }
       ]
     }
   },
@@ -359,12 +357,12 @@
     },
     {
       "source": "/VRChat/VRChat",
-      "target": "/vrchat/VRChat%E8%B5%84%E6%BA%90",
+      "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
       "text": "VRChat资源"
     },
     {
       "source": "/VRChat/VRChat",
-      "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+      "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
       "text": "上传模型"
     },
     {
@@ -374,27 +372,27 @@
     },
     {
       "source": "/VRChat/VRChat资源",
-      "target": "/vrchat/VRChat",
+      "target": "/VRChat/VRChat",
       "text": "VRChat"
     },
     {
       "source": "/VRChat/hotswap",
-      "target": "/vrchat/words/avatar-id",
+      "target": "/VRChat/words/avatar-id",
       "text": "avatar-id"
     },
     {
       "source": "/VRChat/hotswap",
-      "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+      "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
       "text": "上传模型"
     },
     {
       "source": "/VRChat/hotswap",
-      "target": "/vrchat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
+      "target": "/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96",
       "text": "对抗模型偷取"
     },
     {
       "source": "/VRChat/hotswap",
-      "target": "/vrchat/VRChat",
+      "target": "/VRChat/VRChat",
       "text": "VRChat"
     },
     {
@@ -404,57 +402,57 @@
     },
     {
       "source": "/VRChat/words/avatar-id",
-      "target": "/vrchat/words/avatar-pedestal",
+      "target": "/VRChat/words/avatar-pedestal",
       "text": "avatar-pedestal"
     },
     {
       "source": "/VRChat/words/avatar-id",
-      "target": "/vrchat/hotswap",
+      "target": "/VRChat/hotswap",
       "text": "hotswap"
     },
     {
       "source": "/VRChat/上传模型",
-      "target": "/vrchat/VRChat",
+      "target": "/VRChat/VRChat",
       "text": "VRChat"
     },
     {
       "source": "/VRChat/对抗模型偷取",
-      "target": "/vrchat/VRChat",
+      "target": "/VRChat/VRChat",
       "text": "VRChat"
     },
     {
       "source": "/VRChat/对抗模型偷取",
-      "target": "/vrchat/hotswap",
+      "target": "/VRChat/hotswap",
       "text": "hotswap"
     },
     {
       "source": "/",
-      "target": "/vrchat/VRChat",
+      "target": "/VRChat/VRChat",
       "text": "VRChat"
     },
     {
       "source": "/",
-      "target": "/vrchat/VRChat%E8%B5%84%E6%BA%90",
+      "target": "/VRChat/VRChat%E8%B5%84%E6%BA%90",
       "text": "VRChat资源"
     },
     {
       "source": "/",
-      "target": "/vrchat/hotswap",
+      "target": "/VRChat/hotswap",
       "text": "hotswap"
     },
     {
       "source": "/",
-      "target": "/vrchat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
+      "target": "/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
       "text": "上传模型"
     },
     {
       "source": "/",
-      "target": "/vrchat/words/avatar-id",
+      "target": "/VRChat/words/avatar-id",
       "text": "avatar-id"
     },
     {
       "source": "/",
-      "target": "/vrchat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
+      "target": "/VRChat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
       "text": "白毛研究"
     },
     {
