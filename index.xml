@@ -19,7 +19,11 @@ Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
 一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
-根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
+根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>关于响度</title><link>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</guid><description>知乎: https://zhuanlan.zhihu.com/p/397207071
+dB SPL: sound pressure level, 简写成dB
+SPL SPL: sound pressure level, 声压级, 指环境压力和声压之间的差
+单位是帕斯卡(Pa), 一般会转换成dB
+一般会认为每3dB声音能量翻倍, 而由于人耳对响度的感知并不是线性关系, 所以一般需要10dB来让实际听到的感知响度(perceived loudness)翻倍, 具体可以看 这篇</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
 也就是说, 模型本身可以没有控制表情等的脚本, 全都放到外部来运行, 这样即使模型本身被盗, 拿到的也是没有表情/动作等的不完全体, 无法直接进行hotswap, 解包的价值也有限.
 缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item><item><title>白毛研究</title><link>https://q.noos.ca/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
 反复用是因为真的很喜欢
