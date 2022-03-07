@@ -1,9 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
   {{ partial "head.html" . }}
+  
+  <style >
+    article a.internal-link{margin:13px; }
+  </style>
+
+<!-- {{ with $.Resources.GetMatch "**.css*" }}
+{{ $style := . | minify | fingerprint }}
+<link type=text/css rel="stylesheet" href="{{ $style.Permalink }}">
+{{ end }} -->
 
   <body>
     {{partial "search.html" .}}
+    {{partial "top-bar.html" .}}
+
     <div class="singlePage">
       <!-- Begin actual content -->
       <header>
@@ -27,13 +38,15 @@
         {{partial "darkmode.html" .}}
       </header>
       <article>
+        <articleHideSpace>
+          {{- .Content -}}
+        </articleHideSpace>
         <!-- {{ if (and $.Site.Data.config.enableToc (not (.Params.disableToc))) }}
         <aside class="mainTOC">
             <h3>Table of Contents</h3>
             {{ .TableOfContents }}
         </aside>
         {{end}} -->
-        {{- .Content -}}
       </article>
       {{partial "footer.html" .}}
     </div>

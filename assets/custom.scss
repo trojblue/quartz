@@ -3,9 +3,10 @@
   --light: #F7FFF7;
   --dark: #262626;
   --secondary: #5B8E7D ;
-  --tertiary: #aee2d5;
+  --tertiary: #95cebb;
+  --headline:#2C6351;
   --visited: #afbfc9;
-  --primary: #BE1934;
+  --primary: #e3b505;
   --gray: #4e4e4e;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
@@ -14,22 +15,16 @@
 [saved-theme="dark"] {
   --light: #1e1e21 !important;
   --dark: #fbfffe !important;
-  --secondary: #6b879a !important;
+  --secondary: #5B8E7D !important;
   --visited: #4a575e !important;
-  --tertiary: #84a59d !important;
-  --primary: #f58382 !important;
+  --tertiary: #aee2d5 !important;
+  --headline:#2C6351;
+  --primary: #e3b505 !important;
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
 }
 
-h1, h2, h3, h4, h5{
-  font-family: 'poppins','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-h1{
-  color: var(--secondary);
-}
 
 h2{
   padding-top: 10px;
@@ -41,11 +36,79 @@ h3, h4, h5{
 // p, tbody, li{
 //   line-height: 1em;
 // }
+.top-bar {
+  // border-bottom: 10px solid var(--headline);
+  background: linear-gradient(to right, var(--headline) , var(--secondary));
+  -webkit-text-fill-color: transparent;
+  line-height: 0.5em;
+}
 
 .singlePage {
   margin: 4em 25vw;
 
-  @media all and (max-width: 1200px) {
+  @media all and (max-width: 1000px) {
     margin: 25px 5vw;
   }
+}
+
+
+article {
+  & > .meta {
+    margin: -1.5em 0 1em 0;
+    opacity: 0.7;
+  }
+
+  & > .tags {
+    list-style: none;
+    padding-left: 0;
+
+    & .meta {
+      & > h1 {
+        margin: 0;
+      }
+      & > p {
+        margin: 0;
+      }
+    }
+
+    & > li {
+      display: inline-block;
+    }
+    // 标签
+    & > li > a {
+      border-radius: 8px;
+      border: var(--outlinegray) 1px solid;
+      padding: 0.2em 0.5em;
+
+      // 外围圈
+      &::before {
+        content: "#";
+        margin-right: 0.3em;
+        color: var(--outlinegray);
+      }
+    }
+  }
+
+  & a {
+    font-family: Source Sans Pro;
+    font-weight: 600;
+
+    &.internal-link {
+      text-decoration: none;
+      background-color: transparentize(#8fa991, 0.95);
+      padding: 0 0.1em;
+      margin: auto -0.1em;
+      border-radius: 3px;
+    }
+  }
+}
+
+.mainTOC {
+  margin-block-end: 30px;
+}
+
+header>h1{
+  background: linear-gradient(to right, var(--headline) , var(--secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
