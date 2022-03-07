@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "vrc/VRChat.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "vrc/VRChat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "442b32bc8cb03914",
   "lastOpenFiles": [
+    "vrc/VRChat.md",
+    "vrc/hotswap.md",
+    "vrc/上传模型.md",
+    "vrc/对抗模型偷取.md",
+    "music/音乐资源.md",
+    "templates/post.md",
+    "notes/通用资源.md",
     "_index.md",
-    "VRChat/白毛研究.md",
-    "VRChat/对抗模型偷取.md",
-    "VRChat/hotswap.md",
-    "VRChat/上传模型.md",
-    "assets/image20220306084122.png",
-    "VRChat/VRChat资源.md",
-    "VRChat/VRChat.md",
-    "VRChat/words/avatar-pedestal.md",
-    "VRChat/words/avatar-id.md"
+    "music/音乐推荐平台.md",
+    "assets/image20220306233704.png"
   ]
 }
