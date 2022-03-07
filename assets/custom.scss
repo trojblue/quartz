@@ -1,11 +1,11 @@
 // Add your own CSS here!
 :root {
-  --light: #faf8f8;
-  --dark: #141021;
-  --secondary: #284b63;
-  --tertiary: #84a59d;
+  --light: #F7FFF7;
+  --dark: #262626;
+  --secondary: #aee2d5;
+  --tertiary: #5B8E7D;
   --visited: #afbfc9;
-  --primary: #f28482;
+  --primary: #BE1934;
   --gray: #4e4e4e;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
@@ -21,4 +21,23 @@
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'poppins','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+  padding-top: 15px;
+  color: var(--secondary);
+}
+h2{
+  padding-top: 10px;
+}
+h3, h4, h5{
+  padding-top: 8px;
+}
+
+p, tbody, li{
+  line-height: 1em;
 }
