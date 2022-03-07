@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vrc/VRChat资源.md",
+            "file": "vrc/blender/bake-heightmap.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vrc/VRChat资源.md",
+                "file": "vrc/blender/bake-heightmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "442b32bc8cb03914",
   "lastOpenFiles": [
+    "vrc/blender/bake-heightmap.md",
+    "assets/image20220307114427.png",
+    "assets/image20220307114347.png",
+    "vrc/blender/Blender资源.md",
+    "vrc/blender/Blender.md",
+    "_index.md",
+    "vrc/白毛研究.md",
     "vrc/VRChat资源.md",
     "notes/how-to-speak.md",
-    "assets/image49.png",
-    "notes/Pasted image 49.png.md",
-    "music/关于响度.md",
-    "music/音乐资源.md",
-    "music/音乐推荐平台.md",
-    "assets/image20210807024147.png",
-    "assets/image20210807015316.png",
-    "assets/image20210807013048.png"
+    "assets/image49.png"
   ]
 }

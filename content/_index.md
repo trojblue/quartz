@@ -24,7 +24,7 @@ tags:
 
 ## 音乐相关
 
-[音乐资源](music/音乐资源.md)  [音乐推荐平台](music/音乐推荐平台.md)
+[音乐资源](music/音乐资源.md)  [音乐推荐平台](music/音乐推荐平台.md)  [关于响度](music/关于响度.md)
 
 
 
@@ -34,9 +34,9 @@ tags:
 
 
 
-[VRChat资源](vrc/VRChat资源.md)  [hotswap](vrc/hotswap.md)  [上传模型](vrc/上传模型.md)   [avatar-id](vrc/words/avatar-id.md)  [白毛研究](vrc/白毛研究.md)
+[VRChat资源](vrc/VRChat资源.md)  [hotswap](vrc/hotswap.md) [白毛研究](vrc/白毛研究.md)
 
-
+ ([上传模型](vrc/上传模型.md)   [avatar-id](vrc/words/avatar-id.md) )
 
 
 
