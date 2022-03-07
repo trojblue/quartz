@@ -25,6 +25,11 @@
   --outlinegray: #343434 !important;
 }
 
+header>h1{
+  background: linear-gradient(to right, var(--headline) , var(--secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
 ::selection {
   background: var(--primary);
@@ -102,8 +107,17 @@ article {
   margin-block-end: 30px;
 }
 
-header>h1{
-  background: linear-gradient(to right, var(--headline) , var(--secondary));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
+
+// 图片
+img {
+  width: auto;
+  max-width: 100%;
 }
+
+// 图片居中
+// img{
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+// }
