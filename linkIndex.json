@@ -14,6 +14,11 @@
         },
         {
           "source": "/",
+          "target": "/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6",
+          "text": "关于响度"
+        },
+        {
+          "source": "/",
           "target": "/vrc/VRChat%E8%B5%84%E6%BA%90",
           "text": "VRChat资源"
         },
@@ -24,6 +29,11 @@
         },
         {
           "source": "/",
+          "target": "/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
+          "text": "白毛研究"
+        },
+        {
+          "source": "/",
           "target": "/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
           "text": "上传模型"
         },
@@ -31,11 +41,6 @@
           "source": "/",
           "target": "/vrc/words/avatar-id",
           "text": "avatar-id"
-        },
-        {
-          "source": "/",
-          "target": "/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
-          "text": "白毛研究"
         },
         {
           "source": "/",
@@ -92,7 +97,7 @@
       "/vrc/blender/Blender资源": [
         {
           "source": "/vrc/blender/Blender资源",
-          "target": "/vrc/blender/Blender",
+          "target": "/",
           "text": "Blender"
         }
       ],
@@ -151,6 +156,20 @@
       ]
     },
     "backlinks": {
+      "/": [
+        {
+          "source": "/vrc/blender/Blender资源",
+          "target": "/",
+          "text": "Blender"
+        }
+      ],
+      "/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6": [
+        {
+          "source": "/",
+          "target": "/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6",
+          "text": "关于响度"
+        }
+      ],
       "/music/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90%E5%B9%B3%E5%8F%B0": [
         {
           "source": "/",
@@ -245,13 +264,6 @@
           "text": "VRChat资源"
         }
       ],
-      "/vrc/blender/Blender": [
-        {
-          "source": "/vrc/blender/Blender资源",
-          "target": "/vrc/blender/Blender",
-          "text": "Blender"
-        }
-      ],
       "/vrc/blender/Blender%E8%B5%84%E6%BA%90": [
         {
           "source": "/",
@@ -320,6 +332,11 @@
     },
     {
       "source": "/",
+      "target": "/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6",
+      "text": "关于响度"
+    },
+    {
+      "source": "/",
       "target": "/vrc/VRChat%E8%B5%84%E6%BA%90",
       "text": "VRChat资源"
     },
@@ -330,6 +347,11 @@
     },
     {
       "source": "/",
+      "target": "/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
+      "text": "白毛研究"
+    },
+    {
+      "source": "/",
       "target": "/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B",
       "text": "上传模型"
     },
@@ -337,11 +359,6 @@
       "source": "/",
       "target": "/vrc/words/avatar-id",
       "text": "avatar-id"
-    },
-    {
-      "source": "/",
-      "target": "/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6",
-      "text": "白毛研究"
     },
     {
       "source": "/",
@@ -390,7 +407,7 @@
     },
     {
       "source": "/vrc/blender/Blender资源",
-      "target": "/vrc/blender/Blender",
+      "target": "/",
       "text": "Blender"
     },
     {

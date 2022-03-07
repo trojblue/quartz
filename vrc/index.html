@@ -18,9 +18,14 @@ Hotswap, 一般用来指软件运行中改变它行为.
 Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
 缺点是如果想改的话还是得解包了自己修复.
 获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
-(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\....</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/words/avatar-id/>avatar-id</a></h3><p>打开unity, 在pipeline manager 能看到的"Blueprint ID", 其实就是avatar id.
+(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\....</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/blender/bake-heightmap/>blender: 从mesh烘焙heightmap的正确方法</a></h3><p>步骤 大概的工作流是这样的:
+创建高面数模型
+创建一个平面为主的低面数模型
+把高面数模型bake成height map (也就是normal map)
+在低面数模型上应用height map, 达到低模仿真高模的效果
+导出heightmap: (引擎用eevee)...</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/words/avatar-id/>avatar-id</a></h3><p>打开unity, 在pipeline manager 能看到的"Blueprint ID", 其实就是avatar id.
 用途 对于public模型: 可以在世界里用 avatar-pedestal进行克隆, 即使原主人没有开允许克隆也一样可以
-对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/words/avatar-pedestal/></a></h3><p>todo</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/blender/Blender/></a></h3><p>Blender主页</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/>白毛研究</a></h3><p>参考来自 米室 - pixiv
+对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/words/avatar-pedestal/></a></h3><p>todo</p></div><p class=meta>1 minute read. Last updated March 7, 2022</p></div></li><li class=section-li><div class=section><div class=desc><h3><a href=https://q.noos.ca/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/>白毛研究</a></h3><p>参考来自 米室 - pixiv
 反复用是因为真的很喜欢
 提到的模型分别是 maya和 soraneco
 白毛总体:
