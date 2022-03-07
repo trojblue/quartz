@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vrcs on</title><link>https://q.noos.ca/vrc/</link><description>Recent content in Vrcs on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/vrc/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
 用途 对于public模型: 可以在世界里用 avatar-pedestal进行克隆, 即使原主人没有开允许克隆也一样可以
-对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>blender: 从mesh烘焙heightmap的正确方法</title><link>https://q.noos.ca/vrc/blender/bake-heightmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/blender/bake-heightmap/</guid><description>步骤 大概的工作流是这样的:
-创建高面数模型
-创建一个平面为主的低面数模型
-把高面数模型bake成height map (也就是normal map)
-在低面数模型上应用height map, 达到低模仿真高模的效果
-导出heightmap: (引擎用eevee)</description></item><item><title>Blender资源</title><link>https://q.noos.ca/vrc/blender/Blender%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/blender/Blender%E8%B5%84%E6%BA%90/</guid><description>一些实用的Blender/3d资源:
-非VRC渠道: Sketchfab:
-Hangar Blocking
-Enviroment Sets
-我的collection: VRC
-Mastering room</description></item><item><title>hotswap</title><link>https://q.noos.ca/vrc/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
+对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>hotswap</title><link>https://q.noos.ca/vrc/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
 Hotswap, 一般用来指软件运行中改变它行为.
 在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.
 Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.

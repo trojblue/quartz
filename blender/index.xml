@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blenders on</title><link>https://q.noos.ca/blender/</link><description>Recent content in Blenders on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/blender/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/blender/Blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/Blender/</guid><description>看相关链接
+Blender资源
+bake-heightmap
+_index
+VRChat
+VRChat资源</description></item><item><title>blender: 从mesh烘焙heightmap的正确方法</title><link>https://q.noos.ca/blender/bake-heightmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/bake-heightmap/</guid><description>步骤 大概的工作流是这样的:
+创建高面数模型
+创建一个平面为主的低面数模型
+把高面数模型bake成height map (也就是normal map)
+在低面数模型上应用height map, 达到低模仿真高模的效果
+导出heightmap: (引擎用eevee)</description></item><item><title>Blender资源</title><link>https://q.noos.ca/blender/Blender%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/Blender%E8%B5%84%E6%BA%90/</guid><description>一些实用的Blender/3d资源:
+非VRC渠道: Sketchfab:
+Hangar Blocking
+Enviroment Sets
+我的collection: VRC
+Mastering room</description></item></channel></rss>

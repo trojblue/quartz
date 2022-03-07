@@ -44,8 +44,54 @@
         },
         {
           "source": "/",
-          "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
           "text": "Blender资源"
+        },
+        {
+          "source": "/",
+          "target": "/blender/bake-heightmap",
+          "text": "bake-heightmap"
+        }
+      ],
+      "/blender/Blender": [
+        {
+          "source": "/blender/Blender",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
+        },
+        {
+          "source": "/blender/Blender",
+          "target": "/blender/bake-heightmap",
+          "text": "bake-heightmap"
+        },
+        {
+          "source": "/blender/Blender",
+          "target": "/_index",
+          "text": "_index"
+        },
+        {
+          "source": "/blender/Blender",
+          "target": "/vrc/VRChat",
+          "text": "VRChat"
+        },
+        {
+          "source": "/blender/Blender",
+          "target": "/vrc/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
+        }
+      ],
+      "/blender/Blender资源": [
+        {
+          "source": "/blender/Blender资源",
+          "target": "/blender/Blender",
+          "text": "Blender"
+        }
+      ],
+      "/blender/bake-heightmap": [
+        {
+          "source": "/blender/bake-heightmap",
+          "target": "/blender/Blender",
+          "text": "Blender"
         }
       ],
       "/notes/通用资源": [
@@ -61,7 +107,7 @@
         },
         {
           "source": "/notes/通用资源",
-          "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
           "text": "Blender资源"
         },
         {
@@ -85,20 +131,13 @@
       "/vrc/VRChat资源": [
         {
           "source": "/vrc/VRChat资源",
-          "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
           "text": "Blender资源"
         },
         {
           "source": "/vrc/VRChat资源",
           "target": "/vrc/VRChat",
           "text": "VRChat"
-        }
-      ],
-      "/vrc/blender/Blender资源": [
-        {
-          "source": "/vrc/blender/Blender资源",
-          "target": "/",
-          "text": "Blender"
         }
       ],
       "/vrc/hotswap": [
@@ -156,11 +195,57 @@
       ]
     },
     "backlinks": {
-      "/": [
+      "/_index": [
         {
-          "source": "/vrc/blender/Blender资源",
-          "target": "/",
+          "source": "/blender/Blender",
+          "target": "/_index",
+          "text": "_index"
+        }
+      ],
+      "/blender/Blender": [
+        {
+          "source": "/blender/Blender资源",
+          "target": "/blender/Blender",
           "text": "Blender"
+        },
+        {
+          "source": "/blender/bake-heightmap",
+          "target": "/blender/Blender",
+          "text": "Blender"
+        }
+      ],
+      "/blender/Blender%E8%B5%84%E6%BA%90": [
+        {
+          "source": "/",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
+        },
+        {
+          "source": "/blender/Blender",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
+        },
+        {
+          "source": "/notes/通用资源",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
+        },
+        {
+          "source": "/vrc/VRChat资源",
+          "target": "/blender/Blender%E8%B5%84%E6%BA%90",
+          "text": "Blender资源"
+        }
+      ],
+      "/blender/bake-heightmap": [
+        {
+          "source": "/",
+          "target": "/blender/bake-heightmap",
+          "text": "bake-heightmap"
+        },
+        {
+          "source": "/blender/Blender",
+          "target": "/blender/bake-heightmap",
+          "text": "bake-heightmap"
         }
       ],
       "/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6": [
@@ -227,6 +312,11 @@
       ],
       "/vrc/VRChat": [
         {
+          "source": "/blender/Blender",
+          "target": "/vrc/VRChat",
+          "text": "VRChat"
+        },
+        {
           "source": "/vrc/VRChat资源",
           "target": "/vrc/VRChat",
           "text": "VRChat"
@@ -254,6 +344,11 @@
           "text": "VRChat资源"
         },
         {
+          "source": "/blender/Blender",
+          "target": "/vrc/VRChat%E8%B5%84%E6%BA%90",
+          "text": "VRChat资源"
+        },
+        {
           "source": "/notes/通用资源",
           "target": "/vrc/VRChat%E8%B5%84%E6%BA%90",
           "text": "VRChat资源"
@@ -262,23 +357,6 @@
           "source": "/vrc/VRChat",
           "target": "/vrc/VRChat%E8%B5%84%E6%BA%90",
           "text": "VRChat资源"
-        }
-      ],
-      "/vrc/blender/Blender%E8%B5%84%E6%BA%90": [
-        {
-          "source": "/",
-          "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
-          "text": "Blender资源"
-        },
-        {
-          "source": "/notes/通用资源",
-          "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
-          "text": "Blender资源"
-        },
-        {
-          "source": "/vrc/VRChat资源",
-          "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
-          "text": "Blender资源"
         }
       ],
       "/vrc/hotswap": [
@@ -362,8 +440,48 @@
     },
     {
       "source": "/",
-      "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
+      "target": "/blender/Blender%E8%B5%84%E6%BA%90",
       "text": "Blender资源"
+    },
+    {
+      "source": "/",
+      "target": "/blender/bake-heightmap",
+      "text": "bake-heightmap"
+    },
+    {
+      "source": "/blender/Blender",
+      "target": "/blender/Blender%E8%B5%84%E6%BA%90",
+      "text": "Blender资源"
+    },
+    {
+      "source": "/blender/Blender",
+      "target": "/blender/bake-heightmap",
+      "text": "bake-heightmap"
+    },
+    {
+      "source": "/blender/Blender",
+      "target": "/_index",
+      "text": "_index"
+    },
+    {
+      "source": "/blender/Blender",
+      "target": "/vrc/VRChat",
+      "text": "VRChat"
+    },
+    {
+      "source": "/blender/Blender",
+      "target": "/vrc/VRChat%E8%B5%84%E6%BA%90",
+      "text": "VRChat资源"
+    },
+    {
+      "source": "/blender/Blender资源",
+      "target": "/blender/Blender",
+      "text": "Blender"
+    },
+    {
+      "source": "/blender/bake-heightmap",
+      "target": "/blender/Blender",
+      "text": "Blender"
     },
     {
       "source": "/notes/通用资源",
@@ -377,7 +495,7 @@
     },
     {
       "source": "/notes/通用资源",
-      "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
+      "target": "/blender/Blender%E8%B5%84%E6%BA%90",
       "text": "Blender资源"
     },
     {
@@ -397,18 +515,13 @@
     },
     {
       "source": "/vrc/VRChat资源",
-      "target": "/vrc/blender/Blender%E8%B5%84%E6%BA%90",
+      "target": "/blender/Blender%E8%B5%84%E6%BA%90",
       "text": "Blender资源"
     },
     {
       "source": "/vrc/VRChat资源",
       "target": "/vrc/VRChat",
       "text": "VRChat"
-    },
-    {
-      "source": "/vrc/blender/Blender资源",
-      "target": "/",
-      "text": "Blender"
     },
     {
       "source": "/vrc/hotswap",
