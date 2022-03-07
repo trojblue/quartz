@@ -17,10 +17,11 @@ tags:
 ## VRChat:
 
 [[VRChat资源]]  [[hotswap]] [[白毛研究]]
+
  ([[上传模型]]   [[avatar-id]] )
 
 ## Blender:
-[[Blender资源]]
+[[Blender资源]] [[bake-heightmap]]
 
 
 ## 常用Tag:

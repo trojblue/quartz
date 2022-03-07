@@ -42,3 +42,5 @@ tags:
 5.  用texture coord / mapping调整位置
 
 ![[image20220307114427.png]]
+
+[[Blender]]

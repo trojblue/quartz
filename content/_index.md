@@ -36,13 +36,15 @@ tags:
 
 [VRChat资源](vrc/VRChat资源.md)  [hotswap](vrc/hotswap.md) [白毛研究](vrc/白毛研究.md)
 
+
+
  ([上传模型](vrc/上传模型.md)   [avatar-id](vrc/words/avatar-id.md) )
 
 
 
 ## Blender:
 
-[Blender资源](vrc/blender/Blender资源.md)
+[Blender资源](blender/Blender资源.md) [bake-heightmap](blender/bake-heightmap.md)
 
 
 

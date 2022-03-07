@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vrc/blender/bake-heightmap.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vrc/blender/bake-heightmap.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "442b32bc8cb03914",
   "lastOpenFiles": [
-    "vrc/blender/bake-heightmap.md",
+    "_index.md",
+    "blender/Blender.md",
+    "blender/bake-heightmap.md",
+    "blender/Blender资源.md",
+    "vrc/VRChat资源.md",
     "assets/image20220307114427.png",
     "assets/image20220307114347.png",
-    "vrc/blender/Blender资源.md",
     "vrc/blender/Blender.md",
-    "_index.md",
     "vrc/白毛研究.md",
-    "vrc/VRChat资源.md",
-    "notes/how-to-speak.md",
-    "assets/image49.png"
+    "notes/how-to-speak.md"
   ]
 }
