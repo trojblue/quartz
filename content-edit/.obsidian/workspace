@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "vrc/VRChat资源.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "vrc/VRChat资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "442b32bc8cb03914",
   "lastOpenFiles": [
+    "vrc/VRChat资源.md",
     "_index.md",
     "vrc/VRChat.md",
     "vrc/hotswap.md",
@@ -97,7 +98,6 @@
     "music/音乐资源.md",
     "templates/post.md",
     "notes/通用资源.md",
-    "music/音乐推荐平台.md",
-    "assets/image20220306233704.png"
+    "music/音乐推荐平台.md"
   ]
 }

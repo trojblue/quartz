@@ -28,9 +28,9 @@ h1, h2, h3, h4, h5{
 }
 
 h1{
-  padding-top: 15px;
   color: var(--secondary);
 }
+
 h2{
   padding-top: 10px;
 }
@@ -38,6 +38,14 @@ h3, h4, h5{
   padding-top: 8px;
 }
 
-p, tbody, li{
-  line-height: 1em;
+// p, tbody, li{
+//   line-height: 1em;
+// }
+
+.singlePage {
+  margin: 4em 25vw;
+
+  @media all and (max-width: 1200px) {
+    margin: 25px 5vw;
+  }
 }
