@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>理念圈 | 主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 理念圈 | 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/Blender/Blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/Blender/Blender/</guid><description>Blender主页</description></item><item><title/><link>https://q.noos.ca/vrc/blender/Blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/blender/Blender/</guid><description>Blender主页</description></item><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title/><link>https://q.noos.ca/VRChat/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
-![Pasted image 20220306071615.png](assets/Pasted image 20220306071615.png)
-用途 对于public模型: 可以在世界里用[avatar pedestal](VRChat/words/avatar pedestal.md)进行克隆, 即使原主人没有开允许克隆也一样可以
-对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title/><link>https://q.noos.ca/VRChat/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/words/avatar-pedestal/</guid><description>todo</description></item><item><title/><link>https://q.noos.ca/VRChat/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>理念圈 | 主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 理念圈 | 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/vrc/blender/Blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/blender/Blender/</guid><description>Blender主页</description></item><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
 用途 对于public模型: 可以在世界里用 avatar-pedestal进行克隆, 即使原主人没有开允许克隆也一样可以
-对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>avatar-id</title><link>https://q.noos.ca/VRChat/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
-用途 对于public模型: 可以在世界里用 avatar-pedestal进行克隆, 即使原主人没有开允许克隆也一样可以
-对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>Blender资源</title><link>https://q.noos.ca/Blender/Blender%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/Blender/Blender%E8%B5%84%E6%BA%90/</guid><description>一些实用的Blender/3d资源:
-非VRC渠道: Sketchfab:
-Hangar Blocking
-Enviroment Sets
-我的collection: VRC
-Mastering room</description></item><item><title>Blender资源</title><link>https://q.noos.ca/vrc/blender/Blender%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/blender/Blender%E8%B5%84%E6%BA%90/</guid><description>一些实用的Blender/3d资源:
+对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>Blender资源</title><link>https://q.noos.ca/vrc/blender/Blender%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/blender/Blender%E8%B5%84%E6%BA%90/</guid><description>一些实用的Blender/3d资源:
 非VRC渠道: Sketchfab:
 Hangar Blocking
 Enviroment Sets
@@ -21,41 +11,17 @@ Hotswap, 一般用来指软件运行中改变它行为.
 Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
 缺点是如果想改的话还是得解包了自己修复.
 获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
-(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>hotswap</title><link>https://q.noos.ca/VRChat/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
-Hotswap, 一般用来指软件运行中改变它行为.
-在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.
-Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
-缺点是如果想改的话还是得解包了自己修复.
-获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
 (一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>VRChat</title><link>https://q.noos.ca/vrc/VRChat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/VRChat/</guid><description>VRChat主页, 暂时还没什么东西
-看backlink就行了
-VRChat资源
-上传模型</description></item><item><title>VRChat</title><link>https://q.noos.ca/VRChat/VRChat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/VRChat/</guid><description>VRChat主页, 暂时还没什么东西
 看backlink就行了
 VRChat资源
 上传模型</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/VRChat%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/VRChat%E8%B5%84%E6%BA%90/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
 Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
-一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/VRChat/VRChat%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/VRChat%E8%B5%84%E6%BA%90/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
-Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
 一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
-设置unitysdk ( Setting up the SDK (vrchat.com))
-Sdk3 下载地址 VRChat - Home
-根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>上传模型</title><link>https://q.noos.ca/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/Basics/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
-设置unitysdk ( Setting up the SDK (vrchat.com))
-Sdk3 下载地址 VRChat - Home
-根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>上传模型</title><link>https://q.noos.ca/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
 根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
 也就是说, 模型本身可以没有控制表情等的脚本, 全都放到外部来运行, 这样即使模型本身被盗, 拿到的也是没有表情/动作等的不完全体, 无法直接进行hotswap, 解包的价值也有限.
-缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
-也就是说, 模型本身可以没有控制表情等的脚本, 全都放到外部来运行, 这样即使模型本身被盗, 拿到的也是没有表情/动作等的不完全体, 无法直接进行hotswap, 解包的价值也有限.
 缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item><item><title>白毛研究</title><link>https://q.noos.ca/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
-反复用是因为真的很喜欢
-提到的模型分别是 maya和 soraneco
-白毛总体:
-眼部:
-构成:</description></item><item><title>白毛研究</title><link>https://q.noos.ca/VRChat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/VRChat/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
 反复用是因为真的很喜欢
 提到的模型分别是 maya和 soraneco
 白毛总体:
