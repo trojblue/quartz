@@ -18,7 +18,7 @@ VRChat主页, 暂时还没什么东西
 
 
 
-[VRChat资源](vrchat/VRChat资源.md)
+[VRChat资源](VRChat/VRChat资源.md)
 
-[上传模型](vrchat/上传模型.md)
+[上传模型](VRChat/上传模型.md)
 

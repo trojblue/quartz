@@ -1,6 +1,6 @@
 ---
 
-title: "Noōs主页"
+title: "理念圈|主页"
 
 tags:
 
@@ -14,21 +14,21 @@ tags:
 
 ## VRChat:
 
-[VRChat](vrchat/VRChat.md) ← 主页
+[VRChat](VRChat/VRChat.md) ← 主页
 
 
 
 
 
-[VRChat资源](vrchat/VRChat资源.md)
+[VRChat资源](VRChat/VRChat资源.md)
 
-[hotswap](vrchat/hotswap.md)
+[hotswap](VRChat/hotswap.md)
 
-[上传模型](vrchat/上传模型.md)
+[上传模型](VRChat/上传模型.md)
 
-[avatar-id](vrchat/words/avatar-id.md)
+[avatar-id](VRChat/words/avatar-id.md)
 
-[白毛研究](vrchat/白毛研究.md)
+[白毛研究](VRChat/白毛研究.md)
 
 
 

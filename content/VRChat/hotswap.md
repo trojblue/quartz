@@ -62,7 +62,7 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 
 
 
-比较新的缓存文件没法直接用来hotswap, 但是可以用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包后获取[avatar-id](vrchat/words/avatar-id.md), 从官方服务器获取能hotswap的原包
+比较新的缓存文件没法直接用来hotswap, 但是可以用[Asset Ripper](https://link.zhihu.com/?target=https%3A//github.com/ds5678/AssetRipper) 解包后获取[avatar-id](VRChat/words/avatar-id.md), 从官方服务器获取能hotswap的原包
 
 
 
@@ -102,7 +102,7 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 
 
-对上传模型不熟的可以看→ [上传模型](vrchat/上传模型.md)
+对上传模型不熟的可以看→ [上传模型](VRChat/上传模型.md)
 
 
 
@@ -184,10 +184,10 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 
 
-关于如何对抗模型偷取, 见 → [对抗模型偷取](vrchat/对抗模型偷取.md)
+关于如何对抗模型偷取, 见 → [对抗模型偷取](VRChat/对抗模型偷取.md)
 
 
 
 
 
-[VRChat](vrchat/VRChat.md)
+[VRChat](VRChat/VRChat.md)

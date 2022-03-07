@@ -26,8 +26,8 @@ tags:
 
 
 
-对于**public**模型: 可以在世界里用[avatar-pedestal](vrchat/words/avatar-pedestal.md)进行克隆, 即使原主人没有开允许克隆也一样可以
+对于**public**模型: 可以在世界里用[avatar-pedestal](VRChat/words/avatar-pedestal.md)进行克隆, 即使原主人没有开允许克隆也一样可以
 
 
 
-对于**private**模型: 可以靠avatar id从官方下载到原包, 进行[hotswap](vrchat/hotswap.md)
+对于**private**模型: 可以靠avatar id从官方下载到原包, 进行[hotswap](VRChat/hotswap.md)
