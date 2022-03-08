@@ -70,7 +70,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "music/音质链.md",
+=======
+>>>>>>> jackyzha0-hugo
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
