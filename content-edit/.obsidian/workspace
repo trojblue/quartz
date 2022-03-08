@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "music/音质链.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "music/音质链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "442b32bc8cb03914",
   "lastOpenFiles": [
+    "music/音质链.md",
     "_index.md",
     "blender/Blender.md",
     "blender/bake-heightmap.md",
@@ -97,7 +99,6 @@
     "assets/image20220307114427.png",
     "assets/image20220307114347.png",
     "vrc/blender/Blender.md",
-    "vrc/白毛研究.md",
-    "notes/how-to-speak.md"
+    "vrc/白毛研究.md"
   ]
 }

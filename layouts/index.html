@@ -37,17 +37,17 @@
         {{partial "darkmode.html" .}}
       </header>
       <article>
-        <articleHideSpace>
-          {{- .Content -}}
-        </articleHideSpace>
         <!-- {{ if (and $.Site.Data.config.enableToc (not (.Params.disableToc))) }}
         <aside class="mainTOC">
             <h3>Table of Contents</h3>
             {{ .TableOfContents }}
         </aside>
         {{end}} -->
-      </article>
-      {{partial "footer.html" .}}
-    </div>
-  </body>
+        {{- .Content -}}
+    </article>
+    {{partial "footer.html" .}}
+    {{partial "popover.html" .}}
+</div>
+</body>
+>>>>>>> 651bfc5cd284a259f429b50839c619dd1b94498a
 </html>
