@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Musics on</title><link>https://q.noos.ca/music/</link><description>Recent content in Musics on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/music/index.xml" rel="self" type="application/rss+xml"/><item><title>关于响度</title><link>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</guid><description>知乎: https://zhuanlan.zhihu.com/p/397207071
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Musics on</title><link>https://q.noos.ca/music/</link><description>Recent content in Musics on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/music/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/music/%E9%9F%B3%E8%B4%A8%E9%93%BE/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E9%9F%B3%E8%B4%A8%E9%93%BE/</guid><description>音乐从文件到耳朵经过这些步骤: 加粗的部分是能手动调整的设置
+音乐本身的&amp;quot;音质&amp;quot;:
+采样 (音源本身细节不够, 比如电子乐采样等)
+录制 (麦克风是否足够灵敏 - 信噪比, 是否带来频响上的失真 - 频响)
+后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item><item><title>关于响度</title><link>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</guid><description>知乎: https://zhuanlan.zhihu.com/p/397207071
 dB SPL: sound pressure level, 简写成dB
 SPL SPL: sound pressure level, 声压级, 指环境压力和声压之间的差
 单位是帕斯卡(Pa), 一般会转换成dB

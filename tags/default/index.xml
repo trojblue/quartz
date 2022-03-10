@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>default on</title><link>https://q.noos.ca/tags/default/</link><description>Recent content in default on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/default/index.xml" rel="self" type="application/rss+xml"/><item><title>理念圈 | 主页</title><link>https://q.noos.ca/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/</guid><description>个人知识库和笔记分享站
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>default on</title><link>https://q.noos.ca/tags/default/</link><description>Recent content in default on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/default/index.xml" rel="self" type="application/rss+xml"/><item><title>Blender</title><link>https://q.noos.ca/blender/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender/</guid><description>看相关链接
+blender-resource
+blender-heightmap
+_index
+vrchat
+vrchat-resource</description></item><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>理念圈 | 主页</title><link>https://q.noos.ca/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/</guid><description>个人知识库和笔记分享站
 点击 / 键可以进行网站搜索 (目前只支持英文)
 音乐相关 音乐资源 音乐推荐平台 关于响度
-VRChat: VRChat资源 hotswap 白毛研究
-( 上传模型 avatar-id )
-Blender: Blender资源 bake-heightmap</description></item></channel></rss>
+VRChat: vrchat-resource hotswap 白毛研究
+( vrchat-upload avatar-id )
+Blender: blender-resource blender-heightmap</description></item></channel></rss>

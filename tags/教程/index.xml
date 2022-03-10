@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>教程 on</title><link>https://q.noos.ca/tags/%E6%95%99%E7%A8%8B/</link><description>Recent content in 教程 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>blender: 从mesh烘焙heightmap的正确方法</title><link>https://q.noos.ca/blender/bake-heightmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/bake-heightmap/</guid><description>步骤 大概的工作流是这样的:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>教程 on</title><link>https://q.noos.ca/tags/%E6%95%99%E7%A8%8B/</link><description>Recent content in 教程 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>blender-lighting</title><link>https://q.noos.ca/blender/blender-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-lighting/</guid><description>光照效果的调节方式:
+(右侧菜单) scene - Color Management
+Exposure: 曝光高低
+View Transform: 选择False Color可以看到高光亮度, 和是否丢失动态范围等
+(右侧菜单) output - output (color depth)</description></item><item><title>blender: 从mesh烘焙heightmap的正确方法</title><link>https://q.noos.ca/blender/blender-heightmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-heightmap/</guid><description>步骤 大概的工作流是这样的:
 创建高面数模型
 创建一个平面为主的低面数模型
 把高面数模型bake成height map (也就是normal map)
@@ -9,11 +13,18 @@ Hotswap, 一般用来指软件运行中改变它行为.
 Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
 缺点是如果想改的话还是得解包了自己修复.
 获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
-(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/VRChat%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/VRChat%E8%B5%84%E6%BA%90/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
+(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
+已经是写的教程了 很清楚
+unity-lighting
+unity</description></item><item><title>Unity 场景光照小结</title><link>https://q.noos.ca/unity/unity-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-lighting/</guid><description>之所以算作教程而不是笔记, 还是因为自己其实没做什么想法, 主要全是来自各种教程. 包括自己想法的部分才会被算作笔记.
+相关: blender-lighting
+Emission: 材质发光作为光源的效果, 相比点光源更加柔和; -&amp;gt;原理见 lighting
+新建材料, 用default就行
+点Emission, 设置强度</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
 Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
-一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E4%B8%8A%E4%BC%A0%E6%A8%A1%E5%9E%8B/</guid><description>上传模型:
+一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/vrchat-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-upload/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
-根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/%E5%AF%B9%E6%8A%97%E6%A8%A1%E5%9E%8B%E5%81%B7%E5%8F%96/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
+根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/anti-theft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/anti-theft/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
 也就是说, 模型本身可以没有控制表情等的脚本, 全都放到外部来运行, 这样即使模型本身被盗, 拿到的也是没有表情/动作等的不完全体, 无法直接进行hotswap, 解包的价值也有限.
 缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item></channel></rss>

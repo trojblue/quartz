@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Unities on</title><link>https://q.noos.ca/unity/</link><description>Recent content in Unities on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/unity/index.xml" rel="self" type="application/rss+xml"/><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
+已经是写的教程了 很清楚
+unity-lighting
+unity</description></item><item><title>Unity 场景光照小结</title><link>https://q.noos.ca/unity/unity-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-lighting/</guid><description>之所以算作教程而不是笔记, 还是因为自己其实没做什么想法, 主要全是来自各种教程. 包括自己想法的部分才会被算作笔记.
+相关: blender-lighting
+Emission: 材质发光作为光源的效果, 相比点光源更加柔和; -&amp;gt;原理见 lighting
+新建材料, 用default就行
+点Emission, 设置强度</description></item></channel></rss>
