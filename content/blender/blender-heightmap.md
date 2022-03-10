@@ -88,4 +88,4 @@ tags:
 
 
 
-[Blender](blender/Blender.md)
+[blender](blender/blender.md)

@@ -41,6 +41,6 @@ MMD:
 [https://polyhaven.com/](https://polyhaven.com/) 免费素材
 
 
-[[Blender]]
+[[blender]]
 
 

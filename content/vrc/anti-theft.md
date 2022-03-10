@@ -140,7 +140,7 @@ Github有一个项目叫做GT-AntiRip, 支持Avatar3.0系统:
 
 
 
-[VRChat](vrc/VRChat.md)
+[vrchat](vrc/vrchat.md)
 
 [hotswap](vrc/hotswap.md)
 

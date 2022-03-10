@@ -43,4 +43,4 @@ tags:
 
 ![[image20220307114427.png]]
 
-[[Blender]]
+[[blender]]

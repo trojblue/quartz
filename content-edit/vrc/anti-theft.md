@@ -69,7 +69,7 @@ Github有一个项目叫做GT-AntiRip, 支持Avatar3.0系统:
 目前这个项目还在alpha阶段, 也不能完全防住偷取 但也好过完全没有.
 
 
-[[VRChat]]
+[[vrchat]]
 [[hotswap]]
 
 

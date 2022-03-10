@@ -1,14 +1,21 @@
+---
+title: "Blender"
+tags:
+- default
+---
+
+
 看相关链接
 
-[[Blender资源]] 
+[[blender-resource]] 
 
-[[bake-heightmap]]
+[[blender-heightmap]]
 
 [[_index]] 
 
-[[VRChat]] 
+[[vrchat]] 
 
-[[VRChat资源]] 
+[[vrchat-resource]] 
 
 
 

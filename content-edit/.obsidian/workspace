@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "18c8ea9aeed908d8",
+    "id": "2033d331d53fc962",
     "type": "split",
     "children": [
       {
-        "id": "442b32bc8cb03914",
+        "id": "e5420eb1afd1a97b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "music/音质链.md",
+            "file": "unity/unity-postfx.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bf988c9917a8323d",
+    "id": "ace8fdac9ee5529d",
     "type": "split",
     "children": [
       {
-        "id": "e77e36a2d39aea44",
+        "id": "7c70ccece4e4a071",
         "type": "tabs",
         "children": [
           {
-            "id": "10a65c0d4b8dfce0",
+            "id": "0d93968a8a333362",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "64a19e58f023faf8",
+            "id": "d5db7fdbead872b2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pasted image 20210808040211",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,38 +49,34 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "ee0f23926ea27cc2",
+    "id": "39c80471af4d3eae",
     "type": "split",
     "children": [
       {
-        "id": "0814940c28ffa13e",
+        "id": "28053f970b1f623e",
         "type": "tabs",
         "children": [
           {
-            "id": "76c8ab47ad86ccfe",
+            "id": "c989cf807ccc0bec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "music/音质链.md",
-=======
->>>>>>> jackyzha0-hugo
+                "file": "unity/unity-postfx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 145.09091186523438
   },
-  "active": "442b32bc8cb03914",
+  "active": "e5420eb1afd1a97b",
   "lastOpenFiles": [
-    "music/音质链.md",
+    "unity/unity-postfx.md",
+    "unity/unity-lighting.md",
+    "unity/unity.md",
     "_index.md",
-    "blender/Blender.md",
-    "blender/bake-heightmap.md",
-    "blender/Blender资源.md",
-    "vrc/VRChat资源.md",
-    "assets/image20220307114427.png",
-    "assets/image20220307114347.png",
-    "vrc/blender/Blender.md",
-    "vrc/白毛研究.md"
+    "notes/lighting.md",
+    "assets/image20220310001105.png",
+    "unity/未命名.md",
+    "blender/blender.md",
+    "notes/通用资源.md",
+    "blender/blender-heightmap.md"
   ]
 }

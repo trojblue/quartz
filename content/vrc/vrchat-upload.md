@@ -38,4 +38,4 @@ tags:
 
 
 
-[VRChat](vrc/VRChat.md)
+[vrchat](vrc/vrchat.md)

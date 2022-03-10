@@ -18,4 +18,4 @@ tags:
 7.  注意console, 有时候东西没反应, 错误提示写在console里面
 
 
-[[VRChat]]
+[[vrchat]]

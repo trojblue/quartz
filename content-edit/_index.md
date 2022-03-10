@@ -16,17 +16,22 @@ tags:
 
 ## VRChat:
 
-[[VRChat资源]]  [[hotswap]] [[白毛研究]]
+[[vrchat-resource]]  [[hotswap]] [[白毛研究]]
 
- ([[上传模型]]   [[avatar-id]] )
+ ([[vrchat-upload]]   [[avatar-id]] )
 
 ## Blender:
-[[Blender资源]] [[bake-heightmap]]
+[[blender-resource]] [[blender-heightmap]]
+
+## 光照相关:
+[[lighting]] 
+
+[[unity-lighting]] [[unity-postfx]] [[blender-lighting]]
 
 
 ## 常用Tag:
 
-| [VRChat](https://q.noos.ca/tags/VRChat/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) |
+| [VRChat](https://q.noos.ca/tags/VRChat/) | [Unity](https://q.noos.ca/tags/Unity/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) | [光照](https://q.noos.ca/tags/光照/)
 
 
 

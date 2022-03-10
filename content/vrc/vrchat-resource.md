@@ -90,10 +90,10 @@ Public avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.co
 
 ## 开发相关:
 
-[Blender资源](blender/Blender资源.md)
+[blender-resource](blender/blender-resource.md)
 
 
 
 
 
-[VRChat](vrc/VRChat.md)
+[vrchat](vrc/vrchat.md)

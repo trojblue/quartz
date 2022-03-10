@@ -102,7 +102,7 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 
 
-对上传模型不熟的可以看→ [上传模型](vrc/上传模型.md)
+对上传模型不熟的可以看→ [vrchat-upload](vrc/vrchat-upload.md)
 
 
 
@@ -184,10 +184,10 @@ avtr_xxxx_xxxx_xxx的就是avatar id.
 
 
 
-关于如何对抗模型偷取, 见 → [对抗模型偷取](vrc/对抗模型偷取.md)
+关于如何对抗模型偷取, 见 → [anti-theft](vrc/anti-theft.md)
 
 
 
 
 
-[VRChat](vrc/VRChat.md)
+[vrchat](vrc/vrchat.md)

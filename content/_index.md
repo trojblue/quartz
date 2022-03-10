@@ -34,17 +34,27 @@ tags:
 
 
 
-[VRChat资源](vrc/VRChat资源.md)  [hotswap](vrc/hotswap.md) [白毛研究](vrc/白毛研究.md)
+[vrchat-resource](vrc/vrchat-resource.md)  [hotswap](vrc/hotswap.md) [白毛研究](notes/白毛研究.md)
 
 
 
- ([上传模型](vrc/上传模型.md)   [avatar-id](vrc/words/avatar-id.md) )
+ ([vrchat-upload](vrc/vrchat-upload.md)   [avatar-id](vrc/words/avatar-id.md) )
 
 
 
 ## Blender:
 
-[Blender资源](blender/Blender资源.md) [bake-heightmap](blender/bake-heightmap.md)
+[blender-resource](blender/blender-resource.md) [blender-heightmap](blender/blender-heightmap.md)
+
+
+
+## 光照相关:
+
+[lighting](notes/lighting.md) 
+
+
+
+[unity-lighting](unity/unity-lighting.md) [unity-postfx](unity/unity-postfx.md) [blender-lighting](blender/blender-lighting.md)
 
 
 
@@ -54,7 +64,7 @@ tags:
 
 
 
-| [VRChat](https://q.noos.ca/tags/VRChat/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) |
+| [VRChat](https://q.noos.ca/tags/VRChat/) | [Unity](https://q.noos.ca/tags/Unity/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) | [光照](https://q.noos.ca/tags/光照/)
 
 
 
