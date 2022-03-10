@@ -19,28 +19,28 @@ tags:
 -   我的collection: [VRC](https://sketchfab.com/trojblue/collections/vrc)
 -   [Mastering room](https://3dwarehouse.sketchup.com/model/u8128f776-c2c1-461d-bfce-26c80031b1fe/Cube-1-Audio-studio-mastering-room?hl=en&login=true)
 
-3D Warehouse: 工业模型, nb
 
-[3D Warehouse (sketchup.com)](https://3dwarehouse.sketchup.com/)
+
+[3D Warehouse (sketchup.com)](https://3dwarehouse.sketchup.com/): 工业模型, nb
+
+
 
 非VRChat模型:
 
-[https://mmda.booru.org/](https://mmda.booru.org/)
-
-[https://bowlroll.net/r18/file/tag/MikuMikuDance](https://bowlroll.net/r18/file/tag/MikuMikuDance)
-
-[https://smutba.se/](https://smutba.se/)
-
-模型屋(是这名字么)
-
-MMD:
-
+- MMD, [https://mmda.booru.org/](https://mmda.booru.org/)
+- 另一个MMD, [https://bowlroll.net/r18/file/tag/MikuMikuDance](https://bowlroll.net/r18/file/tag/MikuMikuDance)
+- 游戏等的3d模型, [https://smutba.se/](https://smutba.se/)
+- 模型屋(是这名字么)
 -   [MMDArchive 1](https://mmda.booru.org/index.php?page=post&s=view&id=2592); [MMDArchive](https://mmda.booru.org/index.php?page=post&s=view&id=2445)
 
 3D素材:
-[https://polyhaven.com/](https://polyhaven.com/) 免费素材
+- [https://polyhaven.com/](https://polyhaven.com/) 免费HDRI 材质球等
+- [Three D Scans](https://threedscans.com/) 高清扫描的雕塑素材
+- [Statens Museum for Kunst - MyMiniFactory](https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst)更多雕塑素材
 
+Geometry node:
+- [lateasusual - gumroad](https://lateasusual.gumroad.com/ ) 一些免费blender geometry node效果
+- [Blenderesse (gumroad.com)](https://blenderesse.gumroad.com/?recommended_by=library) 更多geometry node
 
 [[blender]]
-
 
