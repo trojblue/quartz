@@ -80,6 +80,20 @@ tags:
 
 
 
+## 相关
+
+
+
+[LIGHTING in Unity - YouTube](https://www.youtube.com/watch?v=VnG2gOKV9dw&t=17s)
+
+
+
+[Post Processing · s-ilent · GitLab](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Post-Processing)
+
+
+
+
+
 ---
 
 
