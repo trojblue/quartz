@@ -29,13 +29,18 @@ Hotswap, 一般用来指软件运行中改变它行为.
 Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
 缺点是如果想改的话还是得解包了自己修复.
 获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
-(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>test page</title><link>https://q.noos.ca/test/t-est/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/t-est/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
+(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>notes</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
+通用资源
+笔记类:
+lighting 白毛研究 twitter</description></item><item><title>test page</title><link>https://q.noos.ca/test/t-est/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/t-est/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
 Search
 Non-alphabetical characters are not searchable in the index for now, for example, copy and search text from the following lines: non-alphabetical characters are not searchable for now:</description></item><item><title>test page</title><link>https://q.noos.ca/test/%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/%E6%B5%8B%E8%AF%95/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
-Search Non-alphabetical characters are not searchable in the index for now, for example, copy and search text from the following lines: non-alphabetical characters are not searchable for now:</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>定位:
-1/4 WL: website link (关于自我, 关于vrchat, 等), 用link的原因是提高曝光时间
-1/4 QQ: quick question (内容相关/不相关各半): 提高参与率
-1/4 IB: industry buzz, 行业内新闻, 技巧等.</description></item><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
+Search Non-alphabetical characters are not searchable in the index for now, for example, copy and search text from the following lines: non-alphabetical characters are not searchable for now:</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
+推特涨粉也是个本事, 从0开始拉关注者 又错过了关键节点的话, 再想涨粉就很痛苦了. 多么痛的领悟.
+然后找了几个关于推特的建议去看, 发现跟vtb的各种做法倒是很像, 或者不如说vtb本来就得精于这套, 这下管人了
+自我定位 核心是几个问题: 我是谁, 我在做什么, 你为什么需要关注我
+我是谁:
+使用Content Bucket方法</description></item><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
 已经是写的教程了 很清楚
 unity-lighting
 unity</description></item><item><title>Unity 场景光照小结</title><link>https://q.noos.ca/unity/unity-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-lighting/</guid><description>之所以算作教程而不是笔记, 还是因为自己其实没做什么想法, 主要全是来自各种教程. 包括自己想法的部分才会被算作笔记.
