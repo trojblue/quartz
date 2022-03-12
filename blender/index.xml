@@ -13,8 +13,8 @@ View Transform: 选择False Color可以看到高光亮度, 和是否丢失动态
 把高面数模型bake成height map (也就是normal map)
 在低面数模型上应用height map, 达到低模仿真高模的效果
 导出heightmap: (引擎用eevee)</description></item><item><title>Blender资源</title><link>https://q.noos.ca/blender/blender-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-resource/</guid><description>一些实用的Blender/3d资源:
+[t est](test/t est.md)
 非VRC渠道: Sketchfab:
 Hangar Blocking
 Enviroment Sets
-我的collection: VRC
-Mastering room</description></item></channel></rss>
+我的collection: VRC</description></item></channel></rss>

@@ -19,17 +19,23 @@ View Transform: 选择False Color可以看到高光亮度, 和是否丢失动态
 把高面数模型bake成height map (也就是normal map)
 在低面数模型上应用height map, 达到低模仿真高模的效果
 导出heightmap: (引擎用eevee)</description></item><item><title>Blender资源</title><link>https://q.noos.ca/blender/blender-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-resource/</guid><description>一些实用的Blender/3d资源:
+[t est](test/t est.md)
 非VRC渠道: Sketchfab:
 Hangar Blocking
 Enviroment Sets
-我的collection: VRC
-Mastering room</description></item><item><title>hotswap</title><link>https://q.noos.ca/vrc/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
+我的collection: VRC</description></item><item><title>hotswap</title><link>https://q.noos.ca/vrc/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
 Hotswap, 一般用来指软件运行中改变它行为.
 在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.
 Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
 缺点是如果想改的话还是得解包了自己修复.
 获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
-(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
+(一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>test page</title><link>https://q.noos.ca/test/t-est/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/t-est/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
+Search
+Non-alphabetical characters are not searchable in the index for now, for example, copy and search text from the following lines: non-alphabetical characters are not searchable for now:</description></item><item><title>test page</title><link>https://q.noos.ca/test/%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/%E6%B5%8B%E8%AF%95/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
+Search Non-alphabetical characters are not searchable in the index for now, for example, copy and search text from the following lines: non-alphabetical characters are not searchable for now:</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>定位:
+1/4 WL: website link (关于自我, 关于vrchat, 等), 用link的原因是提高曝光时间
+1/4 QQ: quick question (内容相关/不相关各半): 提高参与率
+1/4 IB: industry buzz, 行业内新闻, 技巧等.</description></item><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
 已经是写的教程了 很清楚
 unity-lighting
 unity</description></item><item><title>Unity 场景光照小结</title><link>https://q.noos.ca/unity/unity-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-lighting/</guid><description>之所以算作教程而不是笔记, 还是因为自己其实没做什么想法, 主要全是来自各种教程. 包括自己想法的部分才会被算作笔记.
