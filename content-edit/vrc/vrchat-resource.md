@@ -16,7 +16,9 @@ Global illumination [[Free]VRChat Prefabs - Update RealtimeGI for world creation
 一些shader fes上的东西 [PiMaker/VRChatUnityThings:](https://github.com/PiMaker/VRChatUnityThings#procedural-night-skybox)
 
 Public avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.com/document/d/1aHtMbCe6FdT2rdQCJQbSY3P4JHXiU1YRWzZg83mlAk0/edit?usp=sharing)
+  
 
+免费背景音乐 [wirebeats - Copyright Free Music - For Free](https://www.wirebeats.com/)
 
 ## 非合法渠道:
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/twitter.md",
+            "file": "notes/notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/twitter.md",
+                "file": "notes/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "39830788925bd3a2",
   "lastOpenFiles": [
+    "notes/notes.md",
     "notes/twitter.md",
+    "private/twitter- raw.md",
+    "private/private-note.md",
+    "vrc/vrchat-resource.md",
+    "vrc/anti-theft.md",
+    "notes/通用资源.md",
     "test/t est.md",
     "blender/blender-resource.md",
-    "_index.md",
-    "blender/blender.md",
-    "unity/unity-lighting.md",
-    "unity/unity-postfx.md",
-    "unity/unity.md",
-    "notes/lighting.md",
-    "assets/image20220310001105.png"
+    "_index.md"
   ]
 }
