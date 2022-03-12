@@ -7,11 +7,9 @@
         "id": "39830788925bd3a2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "_index.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/image20220312164735.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "assets/image20220312164735.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +86,15 @@
   },
   "active": "39830788925bd3a2",
   "lastOpenFiles": [
-    "_index.md",
+    "assets/image20220312164735.png",
+    "assets/Pasted image 20220312164635.png",
     "notes/twitter.md",
+    "_index.md",
     "private/twitter- raw.md",
     "private/private-note.md",
     "notes/notes.md",
     "vrc/vrchat-resource.md",
     "vrc/anti-theft.md",
-    "notes/通用资源.md",
-    "test/t est.md",
-    "blender/blender-resource.md"
+    "notes/通用资源.md"
   ]
 }
