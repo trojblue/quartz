@@ -22,7 +22,7 @@ tags:
 
 
 
-## 音乐相关
+## 音乐相关:
 
 [音乐资源](music/音乐资源.md)  [音乐推荐平台](music/音乐推荐平台.md)  [关于响度](music/关于响度.md)
 
@@ -55,6 +55,12 @@ tags:
 
 
 [unity-lighting](unity/unity-lighting.md) [unity-postfx](unity/unity-postfx.md) [blender-lighting](blender/blender-lighting.md)
+
+
+
+## 未分类:
+
+[notes](notes/notes.md)
 
 
 

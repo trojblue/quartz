@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/notes.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/notes.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "39830788925bd3a2",
   "lastOpenFiles": [
-    "notes/notes.md",
+    "_index.md",
     "notes/twitter.md",
     "private/twitter- raw.md",
     "private/private-note.md",
+    "notes/notes.md",
     "vrc/vrchat-resource.md",
     "vrc/anti-theft.md",
     "notes/通用资源.md",
     "test/t est.md",
-    "blender/blender-resource.md",
-    "_index.md"
+    "blender/blender-resource.md"
   ]
 }
