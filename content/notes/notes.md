@@ -22,5 +22,9 @@ tags:
 
 笔记类:
 
-[lighting](notes/lighting.md)  [白毛研究](notes/白毛研究.md)  [twitter](notes/twitter.md)
+[lighting](notes/lighting.md)
+
+[白毛研究](notes/白毛研究.md) 
+
+[twitter](notes/twitter.md)
 

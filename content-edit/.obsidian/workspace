@@ -7,9 +7,11 @@
         "id": "39830788925bd3a2",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/image20220312164735.png"
+            "file": "notes/白毛研究.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/image20220312164735.png",
+                "file": "notes/白毛研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 145.09091186523438
+    "width": 145.09091186523438,
+    "collapsed": true
   },
   "active": "39830788925bd3a2",
   "lastOpenFiles": [
+    "notes/白毛研究.md",
+    "assets/image20220313101314.png",
+    "notes/通用资源.md",
+    "notes/notes.md",
+    "_index.md",
     "assets/image20220312164735.png",
     "assets/Pasted image 20220312164635.png",
     "notes/twitter.md",
-    "_index.md",
     "private/twitter- raw.md",
-    "private/private-note.md",
-    "notes/notes.md",
-    "vrc/vrchat-resource.md",
-    "vrc/anti-theft.md",
-    "notes/通用资源.md"
+    "private/private-note.md"
   ]
 }
