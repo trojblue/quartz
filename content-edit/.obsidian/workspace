@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/白毛研究.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "adabfa4cf819a845",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "assets/image20220314032755.png"
           }
         }
       }
@@ -49,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/白毛研究.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +99,15 @@
   },
   "active": "39830788925bd3a2",
   "lastOpenFiles": [
+    "_index.md",
     "notes/白毛研究.md",
+    "assets/image20220314032755.png",
     "assets/image20220313101314.png",
     "notes/通用资源.md",
     "notes/notes.md",
-    "_index.md",
     "assets/image20220312164735.png",
     "assets/Pasted image 20220312164635.png",
     "notes/twitter.md",
-    "private/twitter- raw.md",
-    "private/private-note.md"
+    "private/twitter- raw.md"
   ]
 }
