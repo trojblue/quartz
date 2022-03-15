@@ -12,6 +12,16 @@ tags:
 
 
 
+## 开发相关:
+
+
+
+avatar - [Avatar creation workflow from scratch - Overview - Avatars - VRChat Ask](https://ask.vrchat.com/t/avatar-creation-workflow-from-scratch-overview/4564)
+
+
+
+
+
    
 
 
@@ -58,7 +68,7 @@ Public avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.co
 
    
 
-
+[VRC WAIFU - incognito.uno](https://incognito.uno/#files/VRCHAT%20Assets)
 
 
 

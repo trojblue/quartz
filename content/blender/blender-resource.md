@@ -18,7 +18,21 @@ tags:
 
 
 
-[t est](test/t est.md)
+## 插件等
+
+
+
+pureref: 图片参考用, 免费
+
+
+
+![image20220314052324.png](assets/image20220314052324.png)
+
+
+
+其他blender资源: 见discord, [Vfxmed](https://www.vfxmed.com/)
+
+
 
 
 

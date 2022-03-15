@@ -5,6 +5,11 @@ tags:
 - 教程
 ---
 
+## 开发相关:
+
+avatar - [Avatar creation workflow from scratch - Overview - Avatars - VRChat Ask](https://ask.vrchat.com/t/avatar-creation-workflow-from-scratch-overview/4564)
+
+
    
 
 ## 合法渠道:
@@ -28,7 +33,7 @@ Public avatar合集 (Gdoc, 我收集的) [Public Avatars](https://docs.google.co
 
 [一些常见的booth文件模型包 - GDrive](https://drive.google.com/drive/folders/16RDXb7ETnkL3AZO9xfksPhjAyHk_uVcl?usp=sharing)
    
-
+[VRC WAIFU - incognito.uno](https://incognito.uno/#files/VRCHAT%20Assets)
 
 ## Booth快搜:
 

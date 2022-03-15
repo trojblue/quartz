@@ -9,19 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "vrc/vrchat-resource.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "adabfa4cf819a845",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "assets/image20220314032755.png"
           }
         }
       }
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "vrc/vrchat-resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +89,15 @@
   },
   "active": "39830788925bd3a2",
   "lastOpenFiles": [
+    "vrc/vrchat-resource.md",
+    "blender/blender-resource.md",
+    "assets/image20220314052324.png",
+    "vrc/vrchat.md",
     "_index.md",
-    "notes/白毛研究.md",
     "assets/image20220314032755.png",
+    "notes/白毛研究.md",
     "assets/image20220313101314.png",
     "notes/通用资源.md",
-    "notes/notes.md",
-    "assets/image20220312164735.png",
-    "assets/Pasted image 20220312164635.png",
-    "notes/twitter.md",
-    "private/twitter- raw.md"
+    "notes/notes.md"
   ]
 }
