@@ -19,11 +19,11 @@ View Transform: 选择False Color可以看到高光亮度, 和是否丢失动态
 把高面数模型bake成height map (也就是normal map)
 在低面数模型上应用height map, 达到低模仿真高模的效果
 导出heightmap: (引擎用eevee)</description></item><item><title>Blender资源</title><link>https://q.noos.ca/blender/blender-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-resource/</guid><description>一些实用的Blender/3d资源:
-[t est](test/t est.md)
+插件等 pureref: 图片参考用, 免费
+其他blender资源: 见discord, Vfxmed
 非VRC渠道: Sketchfab:
 Hangar Blocking
-Enviroment Sets
-我的collection: VRC</description></item><item><title>hotswap</title><link>https://q.noos.ca/vrc/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
+Enviroment Sets</description></item><item><title>hotswap</title><link>https://q.noos.ca/vrc/hotswap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/hotswap/</guid><description>2022.03.06 这篇曾经发于知乎被举报删除, 现在修订后重新发布.
 Hotswap, 一般用来指软件运行中改变它行为.
 在VRChat里, hotswap指事先准备好模型包, 在上传的时候替换掉unity里生成的包, 来达到上传任意模型的结果.
 Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器一致的模型包(.vrca), 就可以原样上传上去.
@@ -51,9 +51,8 @@ Emission: 材质发光作为光源的效果, 相比点光源更加柔和; -&amp;
 点Emission, 设置强度</description></item><item><title>VRChat</title><link>https://q.noos.ca/vrc/vrchat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat/</guid><description>VRChat主页, 暂时还没什么东西
 看backlink就行了
 vrchat-resource
-vrchat-upload</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
-Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
-一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/vrchat-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-upload/</guid><description>上传模型:
+vrchat-upload</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>开发相关: avatar - Avatar creation workflow from scratch - Overview - Avatars - VRChat Ask
+合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/vrchat-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-upload/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
 根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>光照相关</title><link>https://q.noos.ca/notes/lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/lighting/</guid><description>光可以用来凸显结构; 光线的强弱需要对比度作为空间; 对比度低则光线的表现能力弱, 太亮太暗都会被变成纯黑/纯白, 类似音频的削波.

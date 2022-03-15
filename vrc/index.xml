@@ -9,9 +9,8 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 (一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>VRChat</title><link>https://q.noos.ca/vrc/vrchat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat/</guid><description>VRChat主页, 暂时还没什么东西
 看backlink就行了
 vrchat-resource
-vrchat-upload</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
-Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
-一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/vrchat-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-upload/</guid><description>上传模型:
+vrchat-upload</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>开发相关: avatar - Avatar creation workflow from scratch - Overview - Avatars - VRChat Ask
+合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/vrchat-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-upload/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
 根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/anti-theft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/anti-theft/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.

@@ -20,9 +20,8 @@ unity</description></item><item><title>Unity 场景光照小结</title><link>htt
 相关: blender-lighting
 Emission: 材质发光作为光源的效果, 相比点光源更加柔和; -&amp;gt;原理见 lighting
 新建材料, 用default就行
-点Emission, 设置强度</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘
-Global illumination [Free]VRChat Prefabs - Update RealtimeGI for world creation
-一些shader fes上的东西 PiMaker/VRChatUnityThings:</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/vrchat-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-upload/</guid><description>上传模型:
+点Emission, 设置强度</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>开发相关: avatar - Avatar creation workflow from scratch - Overview - Avatars - VRChat Ask
+合法渠道: Prefab database: Prefabs VRChat - Google 云端硬盘</description></item><item><title>上传模型</title><link>https://q.noos.ca/vrc/vrchat-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-upload/</guid><description>上传模型:
 设置unitysdk ( Setting up the SDK (vrchat.com))
 Sdk3 下载地址 VRChat - Home
 根据介绍导入各种unity包 (直接双击), 包括VRChatSDK</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/anti-theft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/anti-theft/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
