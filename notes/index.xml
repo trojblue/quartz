@@ -1,14 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on</title><link>https://q.noos.ca/notes/</link><description>Recent content in Notes on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/notes/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/notes/%E5%85%B3%E4%BA%8ENFT/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E5%85%B3%E4%BA%8ENFT/</guid><description>[TOC]
-Line Goes Up – The Problem With NFTs
-https://youtu.be/YQ_xWvX1n9g
-有点长, 但整体是连续的思路, 还是不想把它分开来发.
-BTC 比特币的机制: 区块提出问题, 区块内的机器竞争得到解答, 算力越大每个人的得到越少</description></item><item><title>notes</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on</title><link>https://q.noos.ca/notes/</link><description>Recent content in Notes on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>blockchain-sum-up</title><link>https://q.noos.ca/notes/nft/blockchain-sum-up/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/blockchain-sum-up/</guid><description>Sum-up The Third Web, tante.cc
+未来有两种可能:
+区块链完全完蛋
+每个人都只能不得不使用
+&amp;ldquo;To the moon&amp;rdquo;: 指hyper-deflation: 期待中虚拟币的购买力会上升, 则实际花出去买到的东西就在贬值.</description></item><item><title>census</title><link>https://q.noos.ca/notes/nft/census/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/census/</guid><description>关于共识: 我对这个话题的一点想法;
+区块链和共识:
+区块链基于共识, 而人的共识能被改变和伪造:
+没有监管的情况下共识可以被捏造, 可以被机器人生产
+共识本身并没有想象中的那么稳定, 并不像银行等有背书, 因此基于共识的东西也会有波动
+共识, 也就是风评, 一定程度上取决于新加入的人.</description></item><item><title>DAO</title><link>https://q.noos.ca/notes/nft/DAO/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/DAO/</guid><description>DAO &amp;ldquo;decentralized autonomous organization&amp;rdquo;, 以代码和区块链来确定决策的组织
+每人在一个组织系统内的职位, 取决于拥有的token和控制软件, 现有的股权投票其实也已经是类似的东西了
+三个结构: &amp;ldquo;人, token, 控制软件&amp;rdquo;
+概念就有点像oasis那种付费饰品进入的club
+有很多假装成DAO的纯发币机构.</description></item><item><title>ethereum</title><link>https://q.noos.ca/notes/nft/ethereum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/ethereum/</guid><description>Ethereum btc的问题是太重, 很多人也用来买毒品/黑客etc; 风评不好;
+以太坊: 目标是减少transaction time, 减少能耗, etc
+以太坊除了币, 还可以用来存储其他信息, 比如说代码; 愿景是所有参与电脑可以当做去中心化的一个电脑
+希望能靠此来绕过政府监视, 防止被监视, 防止被攻击, etc
+一些比如说把医疗记录放到区块链上的想法, 是先有锤子再找钉子</description></item><item><title>nft-game</title><link>https://q.noos.ca/notes/nft/nft-game/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft-game/</guid><description>NFT游戏: 普通人认为现在的机会在越来越少, 想靠这些东西来破局
+富人和超富人则用这些进行竞技, 获得一种用钱来控制一切的存在感
+OASIS: 在Oasis游戏里, 可以设置VIP Area让买了指定首饰的人可以进入 (比如Alpaca club vs apes)
+NFT可以作为这种token, 进行识别身份和创造共识价值
+而去中心化的金融机构可以审查钱包上的整个记录, 看到所有NFT行为 进而进行价格歧视;
+上链的记录和无法改变的规则, 不能产生结果上的公平</description></item><item><title>notes</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
 通用资源
 笔记类:
-lighting
+光照相关
 白毛研究
-twitter
-关于NFT</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
+twitter运营
+区块链相关</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
 推特涨粉也是个本事, 从0开始拉关注者 又错过了关键节点的话, 再想涨粉就很痛苦了. 多么痛的领悟.
 然后找了几个关于推特的建议去看, 发现跟vtb的各种做法倒是很像, 或者不如说vtb本来就得精于这套, 这下管人了
 自我定位 核心是几个问题: 我是谁, 我在做什么, 你为什么需要关注我.
@@ -16,7 +34,17 @@ twitter
 blender中导出图片, 选择OpenEXR和32bit也是为了最大的保留对比度. 见 blender-lighting
 blender和 unity里, 镜头效果靠后处理 ( unity-postfx)完成; 比如说bloom和色彩调整
 光线的3个特征:
-光线沿直线传播</description></item><item><title>白毛研究</title><link>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
+光线沿直线传播</description></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/blockchain-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/blockchain-main/</guid><description>本来不想把这篇拆开来的, 但是奈何现在网站默认的排版挺屎的, 我也没空改css.
+分开来观感好一点, 那就这么做吧..
+Line Goes Up – The Problem With NFTs
+https://youtu.be/YQ_xWvX1n9g
+下面是目录:
+btc</description></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/nft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft/</guid><description>NFT: non-fungible token, NFT是一种&amp;quot;true digital object&amp;quot;: 完全唯一, 且能被无损传输的物品, 不可被分割
+strict uniqueness: 性质完全相同的两个东西, 是两个不同的东西 (类似CSGO的皮肤)
+唯一: 总量有限, 且每个具有唯一性 (类似serial number)</description></item><item><title>关于比特币</title><link>https://q.noos.ca/notes/nft/btc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/btc/</guid><description>BTC 比特币的机制: 区块提出问题, 区块内的机器竞争得到解答, 算力越大每个人的得到越少
+问题是一开始拿到币的人会越来越富, 一开始就富的人会买到更好的机器, 成为富者越来越富的工具
+计算会浪费很多资源 (毕竟本来就是做没有意义的计算), 是名副其实的挖矿
+但相对的, 银行本身像atm之类的东西也很费电, visa也很费电, 但visa本身并没有btc那么耗电</description></item><item><title>白毛研究</title><link>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
 反复用是因为真的很喜欢
 提到的模型分别是 maya和 soraneco
 右键在新窗口打开查看大图
