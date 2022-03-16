@@ -31,6 +31,8 @@ tags:
 ## 未分类:
 [[notes]]
 
+⭐[区块链相关](notes/nft/blockchain-main.md)
+
 
 ## 常用Tag:
 

@@ -4,16 +4,17 @@ tags:
 - default
 ---
 
-没有准确分类:
+**没有准确分类:**
 
 [[通用资源]] 
 
+<br>
+**笔记类:**
 
-笔记类:
-[[lighting]]
+[光照相关](notes/lighting.md)
 
 [[白毛研究]] 
 
-[[twitter]]
+[twitter运营](notes/twitter.md)
 
-[[关于NFT]]
+[区块链相关](notes/nft/blockchain-main.md)

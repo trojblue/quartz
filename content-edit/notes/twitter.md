@@ -56,7 +56,9 @@ Hey @xxx, loved your xxx and especially xxxx, 具体, insightful, 别尬吹
 4. 精准内容, "bingeable", 可一次看完的内容
 
 
-操作:
+
+## 具体操作
+
 1. 在目标tag下高强度互动
 2. 直接at别人表示感谢等
 3. (VRChat) 拍照片, 然后at作者
