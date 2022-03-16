@@ -2,7 +2,11 @@
 音乐本身的&amp;quot;音质&amp;quot;:
 采样 (音源本身细节不够, 比如电子乐采样等)
 录制 (麦克风是否足够灵敏 - 信噪比, 是否带来频响上的失真 - 频响)
-后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
+后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item><item><title/><link>https://q.noos.ca/notes/%E5%85%B3%E4%BA%8ENFT/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E5%85%B3%E4%BA%8ENFT/</guid><description>[TOC]
+Line Goes Up – The Problem With NFTs
+https://youtu.be/YQ_xWvX1n9g
+有点长, 但整体是连续的思路, 还是不想把它分开来发.
+BTC 比特币的机制: 区块提出问题, 区块内的机器竞争得到解答, 算力越大每个人的得到越少</description></item><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
 用途 对于public模型: 可以在世界里用 avatar-pedestal进行克隆, 即使原主人没有开允许克隆也一样可以
 对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>Blender</title><link>https://q.noos.ca/blender/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender/</guid><description>看相关链接
 blender-resource
@@ -34,7 +38,8 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 笔记类:
 lighting
 白毛研究
-twitter</description></item><item><title>test page</title><link>https://q.noos.ca/test/t-est/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/t-est/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
+twitter
+关于NFT</description></item><item><title>test page</title><link>https://q.noos.ca/test/t-est/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/t-est/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
 Search
 Non-alphabetical characters are not searchable in the index for now, for example, copy and search text from the following lines: non-alphabetical characters are not searchable for now:</description></item><item><title>test page</title><link>https://q.noos.ca/test/%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/test/%E6%B5%8B%E8%AF%95/</guid><description>This is the test document for using non-alphabetical symbols in quartz;
 Search Non-alphabetical characters are not searchable in the index for now, for example, copy and search text from the following lines: non-alphabetical characters are not searchable for now:</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
