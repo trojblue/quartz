@@ -22,9 +22,7 @@ tags:
 
 
 
->  Line Goes Up – The Problem With NFTs
-
-  https://youtu.be/YQ_xWvX1n9g
+>  [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 
 
 
@@ -34,9 +32,7 @@ tags:
 
 
 
-1. [btc](notes/nft/btc.md)
-
-2. [ethereum](notes/nft/ethereum.md)
+1. [blockchain](notes/nft/blockchain.md)
 
 3. [nft](notes/nft/nft.md)
 

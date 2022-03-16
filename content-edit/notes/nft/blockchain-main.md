@@ -10,14 +10,12 @@ tags:
 
 分开来观感好一点, 那就这么做吧..
 
->  Line Goes Up – The Problem With NFTs
-  https://youtu.be/YQ_xWvX1n9g
+>  [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 
 
 **下面是目录:**
 
-1. [[btc]]
-2. [[ethereum]]
+1. [[blockchain]]
 3. [[nft]]
 4. [[nft-game]]
 5. [[census]]

@@ -240,7 +240,7 @@ NFT的题材一开始是**共识** (知名meme, 知名艺术家等)
 
 
 
-上一部分: [ethereum](notes/nft/ethereum.md)
+上一部分: [ethereum]()
 
 
 
