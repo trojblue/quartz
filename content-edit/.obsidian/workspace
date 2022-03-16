@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/nft/DAO.md",
+            "file": "notes/nft/blockchain.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/nft/DAO.md",
+                "file": "notes/nft/blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "75b025aaf0857379",
   "lastOpenFiles": [
-    "notes/nft/DAO.md",
-    "notes/nft/blockchain-main.md",
     "notes/nft/blockchain.md",
+    "notes/nft/blockchain-main.md",
+    "notes/nft/DAO.md",
     "notes/nft/ethereum.md",
     "notes/nft/census.md",
     "notes/nft/btc.md",
