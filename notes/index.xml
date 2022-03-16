@@ -37,11 +37,13 @@ blender和 unity里, 镜头效果靠后处理 ( unity-postfx)完成; 比如说bl
 光线沿直线传播</description></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/blockchain-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/blockchain-main/</guid><description>本来不想把这篇拆开来的, 但是奈何现在网站默认的排版挺屎的, 我也没空改css.
 分开来观感好一点, 那就这么做吧..
 Line Goes Up – The Problem With NFTs
-https://youtu.be/YQ_xWvX1n9g
 下面是目录:
-btc</description></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/nft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft/</guid><description>NFT: non-fungible token, NFT是一种&amp;quot;true digital object&amp;quot;: 完全唯一, 且能被无损传输的物品, 不可被分割
+blockchain</description></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/nft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft/</guid><description>NFT: non-fungible token, NFT是一种&amp;quot;true digital object&amp;quot;: 完全唯一, 且能被无损传输的物品, 不可被分割
 strict uniqueness: 性质完全相同的两个东西, 是两个不同的东西 (类似CSGO的皮肤)
-唯一: 总量有限, 且每个具有唯一性 (类似serial number)</description></item><item><title>关于比特币</title><link>https://q.noos.ca/notes/nft/btc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/btc/</guid><description>BTC 比特币的机制: 区块提出问题, 区块内的机器竞争得到解答, 算力越大每个人的得到越少
+唯一: 总量有限, 且每个具有唯一性 (类似serial number)</description></item><item><title>关于比特币</title><link>https://q.noos.ca/notes/nft/blockchain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/blockchain/</guid><description>BTC 比特币的机制: 区块提出问题, 区块内的机器竞争得到解答, 算力越大每个人的得到越少
+问题是一开始拿到币的人会越来越富, 一开始就富的人会买到更好的机器, 成为富者越来越富的工具
+计算会浪费很多资源 (毕竟本来就是做没有意义的计算), 是名副其实的挖矿
+但相对的, 银行本身像atm之类的东西也很费电, visa也很费电, 但visa本身并没有btc那么耗电</description></item><item><title>关于比特币</title><link>https://q.noos.ca/notes/nft/btc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/btc/</guid><description>BTC 比特币的机制: 区块提出问题, 区块内的机器竞争得到解答, 算力越大每个人的得到越少
 问题是一开始拿到币的人会越来越富, 一开始就富的人会买到更好的机器, 成为富者越来越富的工具
 计算会浪费很多资源 (毕竟本来就是做没有意义的计算), 是名副其实的挖矿
 但相对的, 银行本身像atm之类的东西也很费电, visa也很费电, 但visa本身并没有btc那么耗电</description></item><item><title>白毛研究</title><link>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
