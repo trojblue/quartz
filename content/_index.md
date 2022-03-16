@@ -64,7 +64,7 @@ tags:
 
 
 
-⭐[区块链相关](notes/nft/blockchain-main.md)
+※ [区块链相关](notes/nft/blockchain-main.md)
 
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/notes.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/notes.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "75b025aaf0857379",
   "lastOpenFiles": [
+    "_index.md",
     "notes/notes.md",
     "notes/lighting.md",
     "notes/twitter.md",
-    "_index.md",
     "notes/nft/blockchain-main.md",
     "notes/关于NFT.md",
     "notes/nft/blockchain-sum-up.md",
