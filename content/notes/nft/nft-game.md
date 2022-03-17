@@ -1,8 +1,6 @@
-
-
 ---
 
-title: "nft-game"
+title: "nft游戏"
 
 tags:
 

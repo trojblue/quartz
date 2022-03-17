@@ -1,6 +1,5 @@
-
 ---
-title: "nft-game"
+title: "nft游戏"
 tags:
 - 笔记
 - Blockchian

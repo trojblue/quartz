@@ -1,5 +1,5 @@
 ---
-title: "关于比特币"
+title: "关于区块链"
 tags:
 - 笔记
 - Blockchain
