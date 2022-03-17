@@ -90,14 +90,14 @@
   "active": "75b025aaf0857379",
   "lastOpenFiles": [
     "_index.md",
+    "unity/unity.md",
+    "notes/notes.md",
+    "blender/blender.md",
+    "audio/audio-main.md",
+    "audio/sean-olive-interview.md",
     "audio/music-recommend.md",
     "audio/music-resource.md",
-    "audio/sean-olive-interview.md",
     "notes/lighting.md",
-    "vrc/anti-theft.md",
-    "audio/audio-main.md",
-    "audio/fidelity-chain.md",
-    "audio/loudness.md",
-    "notes/nft/nft.md"
+    "vrc/anti-theft.md"
   ]
 }
