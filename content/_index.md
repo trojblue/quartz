@@ -32,11 +32,13 @@ tags:
 
 ## 音频相关:
 
-[music-resource](audio/music-resource.md)  [music-recommend](audio/music-recommend.md)  
+[music-resource](audio/music-resource.md)  [music-recommend](audio/music-recommend.md) [fidelity-chain](audio/fidelity-chain.md) [loudness](audio/loudness.md) 
 
 
 
-※ [loudness](audio/loudness.md) [fidelity-chain](audio/fidelity-chain.md)  [sean-olive-interview](audio/sean-olive-interview.md)
+※  [关于测量和音频行业: 采访Sean Olive](audio/sean-olive-interview.md)
+
+
 
 
 

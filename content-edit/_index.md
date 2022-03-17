@@ -15,9 +15,10 @@ tags:
 文章不止首页这些, 很多层级比较深/暂时不想直接分享/忘了加的可以点树状图看到
 
 ## 音频相关:
-[[music-resource]]  [[music-recommend]]  
+[[music-resource]]  [[music-recommend]] [[fidelity-chain]] [[loudness]] 
 
-※ [[loudness]] [[fidelity-chain]]  [[sean-olive-interview]]
+※  [关于测量和音频行业: 采访Sean Olive](audio/sean-olive-interview.md)
+
 
 
 ## 3D开发:
