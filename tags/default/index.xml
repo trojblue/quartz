@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>default on</title><link>https://q.noos.ca/tags/default/</link><description>Recent content in default on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/default/index.xml" rel="self" type="application/rss+xml"/><item><title>Blender</title><link>https://q.noos.ca/blender/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender/</guid><description>看相关链接
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>default on</title><link>https://q.noos.ca/tags/default/</link><description>Recent content in default on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/default/index.xml" rel="self" type="application/rss+xml"/><item><title>Blender相关</title><link>https://q.noos.ca/blender/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender/</guid><description>看相关链接
 blender-resource
 blender-heightmap
 _index
@@ -7,21 +7,27 @@ vrchat-resource</description></item><item><title>blockchain-sum-up</title><link>
 未来有两种可能:
 区块链完全完蛋
 每个人都只能不得不使用
-&amp;ldquo;To the moon&amp;rdquo;: 指hyper-deflation: 期待中虚拟币的购买力会上升, 则实际花出去买到的东西就在贬值.</description></item><item><title>notes</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
+&amp;ldquo;To the moon&amp;rdquo;: 指hyper-deflation: 期待中虚拟币的购买力会上升, 则实际花出去买到的东西就在贬值.</description></item><item><title>unity相关</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description>unity-postfx
+unity-lighting
+hotswap</description></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/blockchain-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/blockchain-main/</guid><description>本来不想把这篇拆开来的, 但是奈何现在网站默认的排版挺屎的, 我也没空改css.
+分开来观感好一点, 那就这么做吧..
+Line Goes Up – The Problem With NFTs
+下面是目录:
+blockchain</description></item><item><title>未分类相关</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
 通用资源
 笔记类:
 光照相关
 白毛研究
 twitter运营
-区块链相关</description></item><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/blockchain-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/blockchain-main/</guid><description>本来不想把这篇拆开来的, 但是奈何现在网站默认的排版挺屎的, 我也没空改css.
-分开来观感好一点, 那就这么做吧..
-Line Goes Up – The Problem With NFTs
-下面是目录:
-blockchain</description></item><item><title>理念圈 | 主页</title><link>https://q.noos.ca/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/</guid><description>个人知识库和笔记分享站
+区块链相关</description></item><item><title>理念圈 | 主页</title><link>https://q.noos.ca/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/</guid><description>个人知识库和笔记分享站
 点击 / 键可以进行网站搜索 (目前只支持英文)
 在安卓或者ios上点添加到主屏幕的话, 会有类似原生app的效果
 加星号(※)的是比较长或者写了挺多的页
 文章不止首页这些, 很多层级比较深/暂时不想直接分享/忘了加的可以点树状图看到
 音频相关: music-resource music-recommend
 ※ loudness fidelity-chain sean-olive-interview
-3D开发: VRChat:</description></item></channel></rss>
+3D开发: VRChat:</description></item><item><title>音频相关</title><link>https://q.noos.ca/audio/audio-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/audio-main/</guid><description>fidelity-chain
+※ loudness
+music-recommend
+music-resource
+※ sean-olive-interview</description></item></channel></rss>

@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>理念圈 | 主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 理念圈 | 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/audio/audio-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/audio-main/</guid><description/></item><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>理念圈 | 主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 理念圈 | 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
 用途 对于public模型: 可以在世界里用 avatar-pedestal进行克隆, 即使原主人没有开允许克隆也一样可以
-对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>Blender</title><link>https://q.noos.ca/blender/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender/</guid><description>看相关链接
-blender-resource
-blender-heightmap
-_index
-vrchat
-vrchat-resource</description></item><item><title>blender-lighting</title><link>https://q.noos.ca/blender/blender-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-lighting/</guid><description>光照效果的调节方式:
+对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>blender-lighting</title><link>https://q.noos.ca/blender/blender-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-lighting/</guid><description>光照效果的调节方式:
 (右侧菜单) scene - Color Management
 Exposure: 曝光高低
 View Transform: 选择False Color可以看到高光亮度, 和是否丢失动态范围等
@@ -14,7 +9,12 @@ View Transform: 选择False Color可以看到高光亮度, 和是否丢失动态
 创建一个平面为主的低面数模型
 把高面数模型bake成height map (也就是normal map)
 在低面数模型上应用height map, 达到低模仿真高模的效果
-导出heightmap: (引擎用eevee)</description></item><item><title>Blender资源</title><link>https://q.noos.ca/blender/blender-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-resource/</guid><description>一些实用的Blender/3d资源:
+导出heightmap: (引擎用eevee)</description></item><item><title>Blender相关</title><link>https://q.noos.ca/blender/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender/</guid><description>看相关链接
+blender-resource
+blender-heightmap
+_index
+vrchat
+vrchat-resource</description></item><item><title>Blender资源</title><link>https://q.noos.ca/blender/blender-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender-resource/</guid><description>一些实用的Blender/3d资源:
 插件等 pureref: 图片参考用, 免费
 其他blender资源: 见discord, Vfxmed
 非VRC渠道: Sketchfab:
@@ -43,24 +43,20 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 OASIS 在Oasis游戏里, 可以设置VIP Area让买了指定首饰的人可以进入 (比如Alpaca club vs apes)
 NFT可以作为这种token, 进行识别身份和创造共识价值
 而去中心化的金融机构可以审查钱包上的整个记录, 看到所有NFT行为 进而进行价格歧视;
-上链的记录和无法改变的规则, 不能产生结果上的公平</description></item><item><title>notes</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
-通用资源
-笔记类:
-光照相关
-白毛研究
-twitter运营
-区块链相关</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
+上链的记录和无法改变的规则, 不能产生结果上的公平</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
 推特涨粉也是个本事, 从0开始拉关注者 又错过了关键节点的话, 再想涨粉就很痛苦了. 多么痛的领悟.
 然后找了几个关于推特的建议去看, 发现跟vtb的各种做法倒是很像, 或者不如说vtb本来就得精于这套, 这下管人了
 自我定位 核心是几个问题: 我是谁, 我在做什么, 你为什么需要关注我.
-逼格和传播性成反比, 推特没人喜欢传播别人装逼, 但像QQ群圈子够小不缺传播性的话, 装逼倒是能让人很快认识</description></item><item><title>unity</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description/></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
+逼格和传播性成反比, 推特没人喜欢传播别人装逼, 但像QQ群圈子够小不缺传播性的话, 装逼倒是能让人很快认识</description></item><item><title>Unity 后处理</title><link>https://q.noos.ca/unity/unity-postfx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-postfx/</guid><description>关于后处理添加镜头光效: Post Processing · s-ilent · GitLab
 已经是写的教程了 很清楚
 unity-lighting
 unity</description></item><item><title>Unity 场景光照小结</title><link>https://q.noos.ca/unity/unity-lighting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity-lighting/</guid><description>之所以算作教程而不是笔记, 还是因为自己其实没做什么想法, 主要全是来自各种教程. 包括自己想法的部分才会被算作笔记.
 相关: blender-lighting
 Emission: 材质发光作为光源的效果, 相比点光源更加柔和; -&amp;gt;原理见 lighting
 新建材料, 用default就行
-点Emission, 设置强度</description></item><item><title>VRChat</title><link>https://q.noos.ca/vrc/vrchat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat/</guid><description>VRChat主页, 暂时还没什么东西
+点Emission, 设置强度</description></item><item><title>unity相关</title><link>https://q.noos.ca/unity/unity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/unity/unity/</guid><description>unity-postfx
+unity-lighting
+hotswap</description></item><item><title>VRChat</title><link>https://q.noos.ca/vrc/vrchat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat/</guid><description>VRChat主页, 暂时还没什么东西
 看backlink就行了
 vrchat-resource
 vrchat-upload</description></item><item><title>VRChat资源</title><link>https://q.noos.ca/vrc/vrchat-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/vrchat-resource/</guid><description>开发相关: avatar - Avatar creation workflow from scratch - Overview - Avatars - VRChat Ask
@@ -88,7 +84,13 @@ SPL SPL: sound pressure level, 声压级, 指环境压力和声压之间的差
 这篇原先记录在2021年10月14号, 发完到知乎想修订却被删除, 然后鸽了差不多半年终于找出时间把原文的问题改了一些.
 用代码框圈起来的注释来自不愿意透露姓名的音频测量相关大佬, 因为觉得可能自己的口头意见不够文章分量, 所以不想挂出自己名字, 让我改成自己的话</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/anti-theft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/anti-theft/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
 也就是说, 模型本身可以没有控制表情等的脚本, 全都放到外部来运行, 这样即使模型本身被盗, 拿到的也是没有表情/动作等的不完全体, 无法直接进行hotswap, 解包的价值也有限.
-缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item><item><title>白毛研究</title><link>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
+缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item><item><title>未分类相关</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
+通用资源
+笔记类:
+光照相关
+白毛研究
+twitter运营
+区块链相关</description></item><item><title>白毛研究</title><link>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
 反复用是因为真的很喜欢
 提到的模型分别是 maya和 soraneco
 右键在新窗口打开查看大图
@@ -122,4 +124,8 @@ Adfly-skipper - Source code (greasyfork.org)
 音乐本身的&amp;quot;音质&amp;quot;:
 采样 (音源本身细节不够, 比如电子乐采样等)
 录制 (麦克风是否足够灵敏 - 信噪比, 是否带来频响上的失真 - 频响)
-后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item></channel></rss>
+后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item><item><title>音频相关</title><link>https://q.noos.ca/audio/audio-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/audio-main/</guid><description>fidelity-chain
+※ loudness
+music-recommend
+music-resource
+※ sean-olive-interview</description></item></channel></rss>
