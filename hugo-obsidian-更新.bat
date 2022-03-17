@@ -1,0 +1,1 @@
+hugo-obsidian -input=content -output=assets/indices -index -root=.
