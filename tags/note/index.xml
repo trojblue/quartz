@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>note on</title><link>https://q.noos.ca/tags/note/</link><description>Recent content in note on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/tags/note/index.xml" rel="self" type="application/rss+xml"/><item><title>关于测量和音频行业: Livestream with Sean Olive</title><link>https://q.noos.ca/audio/sean-olive-interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/sean-olive-interview/</guid><description>Live Stream with special guest Dr. Sean Olive from Harman International! - YouTube
+这篇原先记录在2021年10月14号, 发完到知乎想修订却被删除, 然后鸽了差不多半年终于找出时间把原文的问题改了一些.
+用代码框圈起来的注释来自不愿意透露姓名的音频测量相关大佬, 因为觉得可能自己的口头意见不够文章分量, 所以不想挂出自己名字, 让我改成自己的话</description></item><item><title>音质链</title><link>https://q.noos.ca/audio/fidelity-chain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/fidelity-chain/</guid><description>音乐从文件到耳朵经过这些步骤: 加粗的部分是能手动调整的设置
+音乐本身的&amp;quot;音质&amp;quot;:
+采样 (音源本身细节不够, 比如电子乐采样等)
+录制 (麦克风是否足够灵敏 - 信噪比, 是否带来频响上的失真 - 频响)
+后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item></channel></rss>

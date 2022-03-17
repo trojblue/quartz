@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audios on</title><link>https://q.noos.ca/audio/</link><description>Recent content in Audios on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/audio/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/audio/audio-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/audio-main/</guid><description/></item><item><title>关于响度</title><link>https://q.noos.ca/audio/loudness/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/loudness/</guid><description>知乎: https://zhuanlan.zhihu.com/p/397207071
+dB SPL: sound pressure level, 简写成dB
+SPL SPL: sound pressure level, 声压级, 指环境压力和声压之间的差
+单位是帕斯卡(Pa), 一般会转换成dB
+一般会认为每3dB声音能量翻倍, 而由于人耳对响度的感知并不是线性关系, 所以一般需要10dB来让实际听到的感知响度(perceived loudness)翻倍, 具体可以看 这篇</description></item><item><title>关于测量和音频行业: Livestream with Sean Olive</title><link>https://q.noos.ca/audio/sean-olive-interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/sean-olive-interview/</guid><description>Live Stream with special guest Dr. Sean Olive from Harman International! - YouTube
+这篇原先记录在2021年10月14号, 发完到知乎想修订却被删除, 然后鸽了差不多半年终于找出时间把原文的问题改了一些.
+用代码框圈起来的注释来自不愿意透露姓名的音频测量相关大佬, 因为觉得可能自己的口头意见不够文章分量, 所以不想挂出自己名字, 让我改成自己的话</description></item><item><title>音乐推荐平台</title><link>https://q.noos.ca/audio/music-recommend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/music-recommend/</guid><description>发现音乐也是个本事啊
+虽然列了很多, 我自己主要还是Rate Your Music看题材, 然后找比如说前10的听
+就这样听了两三年都有好多题材完全没听过的.
+这些站每个全去听一遍, 大概没个10年搞不定吧&amp;hellip;这么想想人健康的三四十年还真是短暂🙈
+SA-CD.net - Top Recommendations
+SACD - 有史以来卖得最好的SACD
+r/come-along-radio</description></item><item><title>音乐资源</title><link>https://q.noos.ca/audio/music-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/music-resource/</guid><description>更新2022.03.06
+推荐先用油猴插件去掉广告跳转:
+AdsBypasser (greasyfork.org)
+Adfly-skipper - Source code (greasyfork.org)
+二次元 / Jpop 主推:</description></item><item><title>音质链</title><link>https://q.noos.ca/audio/fidelity-chain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/fidelity-chain/</guid><description>音乐从文件到耳朵经过这些步骤: 加粗的部分是能手动调整的设置
+音乐本身的&amp;quot;音质&amp;quot;:
+采样 (音源本身细节不够, 比如电子乐采样等)
+录制 (麦克风是否足够灵敏 - 信噪比, 是否带来频响上的失真 - 频响)
+后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item></channel></rss>

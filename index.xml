@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>理念圈 | 主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 理念圈 | 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/music/%E9%9F%B3%E8%B4%A8%E9%93%BE/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E9%9F%B3%E8%B4%A8%E9%93%BE/</guid><description>音乐从文件到耳朵经过这些步骤: 加粗的部分是能手动调整的设置
-音乐本身的&amp;quot;音质&amp;quot;:
-采样 (音源本身细节不够, 比如电子乐采样等)
-录制 (麦克风是否足够灵敏 - 信噪比, 是否带来频响上的失真 - 频响)
-后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>理念圈 | 主页 on</title><link>https://q.noos.ca/</link><description>Recent content in 理念圈 | 主页 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://q.noos.ca/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://q.noos.ca/audio/audio-main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/audio-main/</guid><description/></item><item><title/><link>https://q.noos.ca/vrc/words/avatar-pedestal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-pedestal/</guid><description>todo</description></item><item><title>avatar-id</title><link>https://q.noos.ca/vrc/words/avatar-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/words/avatar-id/</guid><description>打开unity, 在pipeline manager 能看到的&amp;quot;Blueprint ID&amp;quot;, 其实就是avatar id.
 用途 对于public模型: 可以在世界里用 avatar-pedestal进行克隆, 即使原主人没有开允许克隆也一样可以
 对于private模型: 可以靠avatar id从官方下载到原包, 进行 hotswap</description></item><item><title>Blender</title><link>https://q.noos.ca/blender/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/blender/blender/</guid><description>看相关链接
 blender-resource
@@ -44,7 +40,7 @@ Hotswap不像解包需要花时间修复脚本等, 只要能拿到和服务器�
 获取模型包 用来hotswap的模型包一般以.vrca结尾; 以其中一种hotswap方式为例:
 (一) 从缓存提取 去vrchat的缓存目录, 默认是 %AppData%\.</description></item><item><title>nft-game</title><link>https://q.noos.ca/notes/nft/nft-game/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft-game/</guid><description>NFT游戏: 普通人认为现在的机会在越来越少, 想靠这些东西来破局
 富人和超富人则用这些进行竞技, 获得一种用钱来控制一切的存在感
-OASIS: 在Oasis游戏里, 可以设置VIP Area让买了指定首饰的人可以进入 (比如Alpaca club vs apes)
+OASIS 在Oasis游戏里, 可以设置VIP Area让买了指定首饰的人可以进入 (比如Alpaca club vs apes)
 NFT可以作为这种token, 进行识别身份和创造共识价值
 而去中心化的金融机构可以审查钱包上的整个记录, 看到所有NFT行为 进而进行价格歧视;
 上链的记录和无法改变的规则, 不能产生结果上的公平</description></item><item><title>notes</title><link>https://q.noos.ca/notes/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/notes/</guid><description>没有准确分类:
@@ -81,14 +77,16 @@ Line Goes Up – The Problem With NFTs
 下面是目录:
 blockchain</description></item><item><title>关于NFT</title><link>https://q.noos.ca/notes/nft/nft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft/</guid><description>NFT: non-fungible token, NFT是一种&amp;quot;true digital object&amp;quot;: 完全唯一, 且能被无损传输的物品, 不可被分割
 strict uniqueness: 性质完全相同的两个东西, 是两个不同的东西 (类似CSGO的皮肤)
-唯一: 总量有限, 且每个具有唯一性 (类似serial number)</description></item><item><title>关于响度</title><link>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E5%85%B3%E4%BA%8E%E5%93%8D%E5%BA%A6/</guid><description>知乎: https://zhuanlan.zhihu.com/p/397207071
+唯一: 总量有限, 且每个具有唯一性 (类似serial number)</description></item><item><title>关于响度</title><link>https://q.noos.ca/audio/loudness/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/loudness/</guid><description>知乎: https://zhuanlan.zhihu.com/p/397207071
 dB SPL: sound pressure level, 简写成dB
 SPL SPL: sound pressure level, 声压级, 指环境压力和声压之间的差
 单位是帕斯卡(Pa), 一般会转换成dB
 一般会认为每3dB声音能量翻倍, 而由于人耳对响度的感知并不是线性关系, 所以一般需要10dB来让实际听到的感知响度(perceived loudness)翻倍, 具体可以看 这篇</description></item><item><title>关于比特币</title><link>https://q.noos.ca/notes/nft/blockchain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/blockchain/</guid><description>BTC 比特币的机制: 区块提出问题, 区块内的机器竞争得到解答, 算力越大每个人的得到越少
 问题是一开始拿到币的人会越来越富, 一开始就富的人会买到更好的机器, 成为富者越来越富的工具
 计算会浪费很多资源 (毕竟本来就是做没有意义的计算), 是名副其实的挖矿
-但相对的, 银行本身像atm之类的东西也很费电, visa也很费电, 但visa本身并没有btc那么耗电</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/anti-theft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/anti-theft/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
+但相对的, 银行本身像atm之类的东西也很费电, visa也很费电, 但visa本身并没有btc那么耗电</description></item><item><title>关于测量和音频行业: Livestream with Sean Olive</title><link>https://q.noos.ca/audio/sean-olive-interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/sean-olive-interview/</guid><description>Live Stream with special guest Dr. Sean Olive from Harman International! - YouTube
+这篇原先记录在2021年10月14号, 发完到知乎想修订却被删除, 然后鸽了差不多半年终于找出时间把原文的问题改了一些.
+用代码框圈起来的注释来自不愿意透露姓名的音频测量相关大佬, 因为觉得可能自己的口头意见不够文章分量, 所以不想挂出自己名字, 让我改成自己的话</description></item><item><title>对抗模型偷取</title><link>https://q.noos.ca/vrc/anti-theft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/vrc/anti-theft/</guid><description>对抗模型偷取 OSC 2022.3.06: 新版VRChat提供了OSC接口, 可以靠外部数据来控制模型运动.
 也就是说, 模型本身可以没有控制表情等的脚本, 全都放到外部来运行, 这样即使模型本身被盗, 拿到的也是没有表情/动作等的不完全体, 无法直接进行hotswap, 解包的价值也有限.
 缩略图 现在VRChat有三伙人有自动偷皮机器人, 分别是Pxxxxx, Axxx和Rxxxxx. 目前版本机器人能无声无提示进入世界, 加载出所有人的模型后进入其他世界, 很恐怖.</description></item><item><title>白毛研究</title><link>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E7%99%BD%E6%AF%9B%E7%A0%94%E7%A9%B6/</guid><description>参考来自 米室 - pixiv
 反复用是因为真的很喜欢
@@ -97,8 +95,8 @@ SPL SPL: sound pressure level, 声压级, 指环境压力和声压之间的差
 白毛总体:
 眼部:
 鼻:
-构成:</description></item><item><title>通用资源</title><link>https://q.noos.ca/notes/%E9%80%9A%E7%94%A8%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E9%80%9A%E7%94%A8%E8%B5%84%E6%BA%90/</guid><description>音乐/asmr/动画: 音乐资源
-音乐推荐平台
+构成:</description></item><item><title>通用资源</title><link>https://q.noos.ca/notes/%E9%80%9A%E7%94%A8%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/%E9%80%9A%E7%94%A8%E8%B5%84%E6%BA%90/</guid><description>音乐/asmr/动画: music-resource
+music-recommend
 blender-resource
 vrchat-resource
 #zzResource
@@ -110,14 +108,18 @@ https://hentaimama.tv/
 https://www.hxcpp66.com/?id=82986
 https://laowang.vip/thread-91389-1-1.html
 天翼云:
-40MB／s，大量现成资源，这个网盘哪点不比阿里云盘香？ - 砺心的文章 - 知乎 https://zhuanlan.</description></item><item><title>音乐推荐平台</title><link>https://q.noos.ca/music/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90%E5%B9%B3%E5%8F%B0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90%E5%B9%B3%E5%8F%B0/</guid><description>发现音乐也是个本事啊
+40MB／s，大量现成资源，这个网盘哪点不比阿里云盘香？ - 砺心的文章 - 知乎 https://zhuanlan.</description></item><item><title>音乐推荐平台</title><link>https://q.noos.ca/audio/music-recommend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/music-recommend/</guid><description>发现音乐也是个本事啊
 虽然列了很多, 我自己主要还是Rate Your Music看题材, 然后找比如说前10的听
 就这样听了两三年都有好多题材完全没听过的.
 这些站每个全去听一遍, 大概没个10年搞不定吧&amp;hellip;这么想想人健康的三四十年还真是短暂🙈
 SA-CD.net - Top Recommendations
 SACD - 有史以来卖得最好的SACD
-r/come-along-radio</description></item><item><title>音乐资源</title><link>https://q.noos.ca/music/%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/music/%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90/</guid><description>更新2022.03.06
+r/come-along-radio</description></item><item><title>音乐资源</title><link>https://q.noos.ca/audio/music-resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/music-resource/</guid><description>更新2022.03.06
 推荐先用油猴插件去掉广告跳转:
 AdsBypasser (greasyfork.org)
 Adfly-skipper - Source code (greasyfork.org)
-二次元 / Jpop 主推:</description></item></channel></rss>
+二次元 / Jpop 主推:</description></item><item><title>音质链</title><link>https://q.noos.ca/audio/fidelity-chain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/audio/fidelity-chain/</guid><description>音乐从文件到耳朵经过这些步骤: 加粗的部分是能手动调整的设置
+音乐本身的&amp;quot;音质&amp;quot;:
+采样 (音源本身细节不够, 比如电子乐采样等)
+录制 (麦克风是否足够灵敏 - 信噪比, 是否带来频响上的失真 - 频响)
+后期 (混音是否让各个频段足够可闻, 且没有音量拉满造成削波, 以及成品的采样率)</description></item></channel></rss>
