@@ -166,7 +166,9 @@ NFT的核心 不是艺术, 而是speculative value:
 
 
 
-  
+
+
+  > ↑ 有这一回事没错, 但另一方面
 
 
 
@@ -196,7 +198,7 @@ NFT的核心 不是艺术, 而是speculative value:
 
 
 
-### "Going up":
+### "Going up"
 
 
 

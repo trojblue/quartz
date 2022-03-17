@@ -15,7 +15,7 @@ tags:
 
 
 
-### OASIS: 
+### OASIS 
 
 在Oasis游戏里, 可以设置VIP Area让买了指定首饰的人可以进入 (比如Alpaca club vs apes)
 
@@ -27,7 +27,7 @@ NFT可以作为这种token, 进行识别身份和创造共识价值
 
 <br>
 
-### Axie Infinity:
+### Axie Infinity
 
 > csgo大行动宝箱和钥匙, plus
 

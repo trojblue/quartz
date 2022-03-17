@@ -22,33 +22,57 @@ tags:
 
 
 
-## 音乐相关:
-
-[音乐资源](music/音乐资源.md)  [音乐推荐平台](music/音乐推荐平台.md)  [关于响度](music/关于响度.md)
+加星号(※)的是比较长或者写了挺多的页
 
 
 
-
-
-## VRChat:
-
-
-
-[vrchat-resource](vrc/vrchat-resource.md)  [hotswap](vrc/hotswap.md) [白毛研究](notes/白毛研究.md)
+文章不止首页这些, 很多层级比较深/暂时不想直接分享/忘了加的可以点树状图看到
 
 
 
- ([vrchat-upload](vrc/vrchat-upload.md)   [avatar-id](vrc/words/avatar-id.md) )
+## 音频相关:
+
+[music-resource](audio/music-resource.md)  [music-recommend](audio/music-recommend.md)  
 
 
 
-## Blender:
+※ [loudness](audio/loudness.md) [fidelity-chain](audio/fidelity-chain.md)  [sean-olive-interview](audio/sean-olive-interview.md)
+
+
+
+
+
+## 3D开发:
+
+
+
+**VRChat:**
+
+
+
+[vrchat-resource](vrc/vrchat-resource.md)  [hotswap](vrc/hotswap.md) [anti-theft](vrc/anti-theft.md) 
+
+
+
+※ [白毛研究](notes/白毛研究.md)
+
+
+
+
+
+**Blender:**
+
+
 
 [blender-resource](blender/blender-resource.md) [blender-heightmap](blender/blender-heightmap.md)
 
 
 
-## 光照相关:
+
+
+**光照相关:**
+
+
 
 [lighting](notes/lighting.md) 
 
@@ -74,7 +98,7 @@ tags:
 
 
 
-| [VRChat](https://q.noos.ca/tags/VRChat/) | [Unity](https://q.noos.ca/tags/Unity/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) | [光照](https://q.noos.ca/tags/光照/)
+| [VRChat](https://q.noos.ca/tags/VRChat/) | [Unity](https://q.noos.ca/tags/Unity/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) | [光照](https://q.noos.ca/tags/光照/) | [Blockchain](https://q.noos.ca/tags/Blockchain/)
 
 
 

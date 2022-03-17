@@ -10,20 +10,32 @@ tags:
 
 在安卓或者ios上点添加到主屏幕的话, 会有类似原生app的效果
 
-## 音乐相关:
-[[音乐资源]]  [[音乐推荐平台]]  [[关于响度]]
+加星号(※)的是比较长或者写了挺多的页
+
+文章不止首页这些, 很多层级比较深/暂时不想直接分享/忘了加的可以点树状图看到
+
+## 音频相关:
+[[music-resource]]  [[music-recommend]]  
+
+※ [[loudness]] [[fidelity-chain]]  [[sean-olive-interview]]
 
 
-## VRChat:
+## 3D开发:
 
-[[vrchat-resource]]  [[hotswap]] [[白毛研究]]
+**VRChat:**
 
- ([[vrchat-upload]]   [[avatar-id]] )
+[[vrchat-resource]]  [[hotswap]] [[anti-theft]] 
 
-## Blender:
+※ [[白毛研究]]
+
+
+**Blender:**
+
 [[blender-resource]] [[blender-heightmap]]
 
-## 光照相关:
+
+**光照相关:**
+
 [[lighting]] 
 
 [[unity-lighting]] [[unity-postfx]] [[blender-lighting]]
@@ -36,7 +48,7 @@ tags:
 
 ## 常用Tag:
 
-| [VRChat](https://q.noos.ca/tags/VRChat/) | [Unity](https://q.noos.ca/tags/Unity/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) | [光照](https://q.noos.ca/tags/光照/)
+| [VRChat](https://q.noos.ca/tags/VRChat/) | [Unity](https://q.noos.ca/tags/Unity/) | [Blender](https://q.noos.ca/tags/Blender/) | [教程](https://q.noos.ca/tags/教程/) | [音乐](https://q.noos.ca/tags/音乐/) | [笔记](https://q.noos.ca/tags/笔记/) | [资源](https://q.noos.ca/tags/资源/) | [光照](https://q.noos.ca/tags/光照/) | [Blockchain](https://q.noos.ca/tags/Blockchain/)
 
 
 

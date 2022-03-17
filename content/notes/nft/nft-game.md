@@ -32,7 +32,7 @@ tags:
 
 
 
-### OASIS: 
+### OASIS 
 
 
 
@@ -56,7 +56,7 @@ NFT可以作为这种token, 进行识别身份和创造共识价值
 
 
 
-### Axie Infinity:
+### Axie Infinity
 
 
 

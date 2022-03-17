@@ -82,7 +82,8 @@ NFT的核心 不是艺术, 而是speculative value:
 
 - NFT的整体未必是为了"保护艺术家"而产生, 很多时候恰恰是相反, 被人盗版盈利
 
-  
+
+  > ↑ 有这一回事没错, 但另一方面
 
 **speculative value**:
 
@@ -97,7 +98,7 @@ NFT的核心 不是艺术, 而是speculative value:
 
     
 
-### "Going up":
+### "Going up"
 
 NFT的题材一开始是**共识** (知名meme, 知名艺术家等)
 
