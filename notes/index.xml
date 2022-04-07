@@ -7,16 +7,22 @@
 区块链基于共识, 而人的共识能被改变和伪造:
 没有监管的情况下共识可以被捏造, 可以被机器人生产
 共识本身并没有想象中的那么稳定, 并不像银行等有背书, 因此基于共识的东西也会有波动
-共识, 也就是风评, 一定程度上取决于新加入的人.</description></item><item><title>DAO</title><link>https://q.noos.ca/notes/nft/DAO/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/DAO/</guid><description>DAO &amp;ldquo;decentralized autonomous organization&amp;rdquo;, 以代码和区块链来确定决策的组织
+共识, 也就是风评, 一定程度上取决于新加入的人.</description></item><item><title>CJK + Latex Support (测试)</title><link>https://q.noos.ca/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95/</guid><description>Chinese, Japanese, Korean Support 几乎在我们意识到之前，我们已经离开了地面。
+우리가 그것을 알기도 전에 우리는 땅을 떠났습니다.
+私たちがそれを知るほぼ前に、私たちは地面を離れていました。
+Latex Block math works with two dollar signs $$.</description></item><item><title>Configuration</title><link>https://q.noos.ca/notes/config/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/config/</guid><description>Configuration Quartz is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you&amp;rsquo;d like to get.</description></item><item><title>DAO</title><link>https://q.noos.ca/notes/nft/DAO/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/DAO/</guid><description>DAO &amp;ldquo;decentralized autonomous organization&amp;rdquo;, 以代码和区块链来确定决策的组织
 每人在一个组织系统内的职位, 取决于拥有的token和控制软件, 现有的股权投票其实也已经是类似的东西了
 三个结构: &amp;ldquo;人, token, 控制软件&amp;rdquo;
 概念就有点像oasis那种付费饰品进入的club
-有很多假装成DAO的纯发币机构.</description></item><item><title>nft游戏</title><link>https://q.noos.ca/notes/nft/nft-game/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft-game/</guid><description>NFT游戏: 普通人认为现在的机会在越来越少, 想靠这些东西来破局
+有很多假装成DAO的纯发币机构.</description></item><item><title>Editing Content in Quartz</title><link>https://q.noos.ca/notes/editing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/editing/</guid><description>Editing Quartz runs on top of Hugo so all notes are written in Markdown.
+Obsidian I recommend using Obsidian as a way to edit and grow your digital garden.</description></item><item><title>nft游戏</title><link>https://q.noos.ca/notes/nft/nft-game/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/nft/nft-game/</guid><description>NFT游戏: 普通人认为现在的机会在越来越少, 想靠这些东西来破局
 富人和超富人则用这些进行竞技, 获得一种用钱来控制一切的存在感
 OASIS 在Oasis游戏里, 可以设置VIP Area让买了指定首饰的人可以进入 (比如Alpaca club vs apes)
 NFT可以作为这种token, 进行识别身份和创造共识价值
 而去中心化的金融机构可以审查钱包上的整个记录, 看到所有NFT行为 进而进行价格歧视;
-上链的记录和无法改变的规则, 不能产生结果上的公平</description></item><item><title>Setup</title><link>https://q.noos.ca/notes/setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/setup/</guid><description>Making your own Quartz Setting up Quartz requires a basic understanding of git. If you are unfamiliar, this resource is a great place to start!</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
+上链的记录和无法改变的规则, 不能产生结果上的公平</description></item><item><title>Obsidian Vault Integration</title><link>https://q.noos.ca/notes/obsidian/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/obsidian/</guid><description>Setup Obsidian is the preferred way to use Quartz. You can either create a new Obsidian Vault or link one that your already have.</description></item><item><title>Setup</title><link>https://q.noos.ca/notes/setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/setup/</guid><description>Making your own Quartz Setting up Quartz requires a basic understanding of git. If you are unfamiliar, this resource is a great place to start!</description></item><item><title>Showcase</title><link>https://q.noos.ca/notes/showcase/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/showcase/</guid><description>Want to see what Quartz can do? Here are some cool community gardens :)
+Quartz Documentation (this site!) Jacky Zhao&amp;rsquo;s Garden AWAGMI Intern Notes Shihyu&amp;rsquo;s PKM Chloe&amp;rsquo;s Garden SlRvb&amp;rsquo;s Site Course notes for Information Technology Advanced Theory Brandon Boswell&amp;rsquo;s Garden Siyang&amp;rsquo;s Courtyard If you want to see your own on here, submit a Pull Request adding yourself to this file!</description></item><item><title>Troubleshooting and FAQ</title><link>https://q.noos.ca/notes/troubleshooting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/troubleshooting/</guid><description>Still having trouble? Here are a list of common questions and problems people encounter when installing Quartz.
+While you&amp;rsquo;re here, join our Discord :)</description></item><item><title>twitter basics</title><link>https://q.noos.ca/notes/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://q.noos.ca/notes/twitter/</guid><description>[twitter- raw](private/twitter- raw.md)
 推特涨粉也是个本事, 从0开始拉关注者 又错过了关键节点的话, 再想涨粉就很痛苦了. 多么痛的领悟.
 然后找了几个关于推特的建议去看, 发现跟vtb的各种做法倒是很像, 或者不如说vtb本来就得精于这套, 这下管人了
 自我定位 核心是几个问题: 我是谁, 我在做什么, 你为什么需要关注我.
@@ -57,6 +63,4 @@ https://javmenu.com/censored/genre/192
 https://hentaimama.tv/
 国产:
 https://www.hxcpp66.com/?id=82986
-https://laowang.vip/thread-91389-1-1.html
-天翼云:
-40MB／s，大量现成资源，这个网盘哪点不比阿里云盘香？ - 砺心的文章 - 知乎 https://zhuanlan.</description></item></channel></rss>
+https://laowang.</description></item></channel></rss>
