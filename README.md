@@ -8,10 +8,16 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gard
 4. Built-in CJK + Latex Support
 5. Support for both Markdown Links and Wikilinks
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-🔗 Get Started: https://quartz.jzhao.xyz/
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+Get Started: https://q.noos.ca/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Original Github: [jackyzha0/quartz: 🌱 host your own second brain and digital garden for free (github.com)](https://github.com/jackyzha0/quartz)
+
+
+
+
+
+useful docs:
+
+- [Hugo - Preview Changes (jzhao.xyz)](https://quartz.jzhao.xyz/notes/preview-changes/)

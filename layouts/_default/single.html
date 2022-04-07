@@ -1,8 +1,32 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
+{{ $js := resources.Get "js/top.js" | resources.Fingerprint "md5" }}
+<script>
+  //Get the button
+  var mybutton = document.getElementById("myBtn");
+  
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+  
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+  
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+</script>
+
 {{ partial "head.html" . }}
 
 <body>
+  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
     <!-- {{partial "nav.html" .}} -->
 {{partial "search.html" .}}
 <div class="singlePage">
@@ -13,22 +37,26 @@
       <div class="spacer"></div>
       {{partial "darkmode.html" .}}
   </header>
+  <article-head>
+    {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
+    <p class="meta">
+        Last updated {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
+    </p>
+  </article-head>
   <article>
-      {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
-      <p class="meta">
-          Last updated {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
-      </p>
-      <ul class="tags">
-          {{ range (.GetTerms "tags") }}
-          <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
-          {{ end }}
-      </ul>
-      {{partial "toc.html" .}} 
-      {{partial "textprocessing.html" . }}
-    </article>
-    {{partial "discus.html" . }}
-    {{partial "footer.html" .}}
-    {{partial "popover.html" .}}
+
+    <ul class="tags">
+      {{ range (.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
+      {{ end }}
+    </ul>
+    {{partial "toc.html" .}} 
+    {{partial "textprocessing.html" . }} 
+  </article>
+
+  {{partial "discus.html" . }}
+  {{partial "footer.html" .}}
+  {{partial "popover.html" .}}
 </div>
 </body>
 
