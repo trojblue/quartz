@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "blender/blender-resource.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "blender/blender-resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "75b025aaf0857379",
   "lastOpenFiles": [
-    "_index.md",
-    "audio/sean-olive-interview.md",
-    "notes/通用资源.md",
-    "private/twitter- raw.md",
-    "private/private-note.md",
-    "notes/nft/blockchain.md",
+    "blender/blender-resource.md",
+    "notes/twitter.md",
+    "notes/nft/DAO.md",
     "notes/nft/nft-game.md",
-    "unity/unity.md",
-    "notes/notes.md",
-    "blender/blender.md"
+    "notes/nft/nft.md",
+    "notes/nft/blockchain-main.md",
+    "notes/nft/blockchain-sum-up.md",
+    "notes/nft/census.md",
+    "notes/nft/blockchain.md",
+    "notes/白毛研究.md"
   ]
 }

@@ -1,7 +1,8 @@
 ---
-title: "blockchain-sum-up"
+title: "blockchain总结"
 tags:
-- default
+- 笔记
+- Blockchain
 ---
 
 ## Sum-up

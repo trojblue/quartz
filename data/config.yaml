@@ -1,8 +1,11 @@
 name: Xinlei Xu
 enableToc: true
+openToc: false
 enableLinkPreview: true
+enableLatex: true
 description: 个人知识库和笔记分享站
 page_title: "noōsphere | 理念圈"
+
 links:
   - link_name: Twitter
     link: https://twitter.com/xinlei_dev

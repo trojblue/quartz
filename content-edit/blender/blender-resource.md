@@ -8,6 +8,24 @@ tags:
 
 一些实用的Blender/3d资源:
 
+
+## 学习
+
+快速场景构建: [IanHubert - YouTube](https://www.youtube.com/c/mrdodobird/videos)
+其他BlenderGuru提到的艺术家: [Ep. 4: How to Learn 3D Effectively — Blender Guru](https://www.blenderguru.com/podcasts/episode-4)
+```
+Jama Jurabaev  
+Jan Urschel  
+Raf Grassetti  
+Ian Hubert  
+Flipped Normals  
+Beeple (Mike Winkelmann)  
+Julien Kaspar  
+Vitaly Bulgarov
+```
+
+
+
 ## 插件等
 
 pureref: 图片参考用, 免费

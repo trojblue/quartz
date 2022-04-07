@@ -23,6 +23,7 @@
           <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
           {{ end }}
       </ul>
+<<<<<<< HEAD
       {{ if (and $.Site.Data.config.enableToc (not (.Params.disableToc))) }}
       <aside class="mainTOC">
           <!-- <h3>Table of Contents</h3> -->
@@ -46,6 +47,10 @@
           {{end}}
       {{end}}
       {{$temp_content  | safeHTML}}
+=======
+      {{partial "toc.html" .}} 
+      {{partial "textprocessing.html" . }}
+>>>>>>> f05ff5e62d5e2720a05cc3cde33f110686ab5268
     </article>
     {{partial "discus.html" . }}
     {{partial "footer.html" .}}

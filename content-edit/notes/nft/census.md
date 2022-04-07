@@ -1,5 +1,5 @@
 ---
-title: "census"
+title: "共识 Census"
 tags:
 - 笔记
 - Blockchian

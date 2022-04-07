@@ -1,7 +1,6 @@
 ---
 title: "关于NFT"
 tags:
-- default
 - 笔记
 - Blockchain
 ---
