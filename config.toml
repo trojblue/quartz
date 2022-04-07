@@ -1,6 +1,6 @@
 baseURL = "https://q.noos.ca/"
-languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+languageCode = "zh-CN"
+googleAnalytics = "G-NWG7ZJTMJY"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
