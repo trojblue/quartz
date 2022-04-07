@@ -35,22 +35,10 @@
         </svg>
         <div class="spacer"></div>
         {{partial "darkmode.html" .}}
-<<<<<<< HEAD
-      </header>
-      <article>
-        <!-- {{ if (and $.Site.Data.config.enableToc (not (.Params.disableToc))) }}
-        <aside class="mainTOC">
-            <h3>Table of Contents</h3>
-            {{ .TableOfContents }}
-        </aside>
-        {{end}} -->
-        {{- .Content -}}
-=======
     </header>
     <article>
-        {{partial "toc.html" .}} 
+        <!-- {{partial "toc.html" .}}  -->
         {{partial "textprocessing.html" . }}
->>>>>>> f05ff5e62d5e2720a05cc3cde33f110686ab5268
     </article>
     {{partial "footer.html" .}}
     {{partial "popover.html" .}}
