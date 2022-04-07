@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
-{{ $js := resources.Get "js/top.js" | resources.Fingerprint "md5" }}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
 <script>
   //Get the button
   var mybutton = document.getElementById("myBtn");
@@ -26,7 +28,7 @@
 {{ partial "head.html" . }}
 
 <body>
-  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  {{partial "top.html" . }}
     <!-- {{partial "nav.html" .}} -->
 {{partial "search.html" .}}
 <div class="singlePage">
